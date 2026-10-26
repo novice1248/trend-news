@@ -1,0 +1,50 @@
+{
+  "keep_hours": 48,
+  "trend_hours": 24,
+  "max_articles": 600,
+  "categories": {
+    "it": "IT・テック",
+    "world": "世界情勢",
+    "economy": "経済",
+    "science": "科学"
+  },
+  "feeds": [
+    {"name": "ITmedia NEWS", "category": "it", "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"},
+    {"name": "Publickey", "category": "it", "url": "https://www.publickey1.jp/atom.xml"},
+    {"name": "gihyo.jp", "category": "it", "url": "https://gihyo.jp/feed/rss2"},
+    {"name": "はてブ テクノロジー", "category": "it", "url": "https://b.hatena.ne.jp/hotentry/it.rss"},
+    {"name": "Zenn", "category": "it", "url": "https://zenn.dev/feed", "max": 20},
+    {"name": "Google ニュース", "category": "it", "google": true, "url": "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ja&gl=JP&ceid=JP:ja"},
+    {"name": "Hacker News", "category": "it", "lang": "en", "url": "https://hnrss.org/frontpage?points=100"},
+
+    {"name": "NHK 国際", "category": "world", "url": "https://www3.nhk.or.jp/rss/news/cat6.xml"},
+    {"name": "Google ニュース", "category": "world", "google": true, "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ja&gl=JP&ceid=JP:ja"},
+    {"name": "BBC World", "category": "world", "lang": "en", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"name": "Al Jazeera", "category": "world", "lang": "en", "url": "https://www.aljazeera.com/xml/rss/all.xml", "max": 25},
+
+    {"name": "NHK 経済", "category": "economy", "url": "https://www3.nhk.or.jp/rss/news/cat5.xml"},
+    {"name": "Google ニュース", "category": "economy", "google": true, "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ja&gl=JP&ceid=JP:ja"},
+
+    {"name": "NHK 科学・医療", "category": "science", "url": "https://www3.nhk.or.jp/rss/news/cat3.xml"},
+    {"name": "Google ニュース", "category": "science", "google": true, "url": "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=ja&gl=JP&ceid=JP:ja"}
+  ],
+  "block_words": [
+    "芸能", "芸人", "お笑い", "タレント", "俳優", "女優", "アイドル", "歌手", "声優", "グラビア", "写真集",
+    "主演", "出演", "ドラマ", "朝ドラ", "大河", "バラエティ", "紅白", "ジャニーズ", "STARTO", "K-POP", "Kポップ",
+    "熱愛", "交際", "不倫", "破局", "離婚", "結婚発表", "結婚を発表", "第1子", "第2子", "妊娠を発表", "スキャンダル",
+    "YouTuber", "ユーチューバー", "VTuber", "インスタグラムで", "インスタで", "Xで報告", "ブログで報告",
+    "モデルプレス", "オリコン", "ORICON", "クランクイン", "ザテレビジョン", "日刊スポーツ", "スポニチ", "スポーツ報知",
+    "サンスポ", "デイリースポーツ", "東スポ", "女性自身", "週刊女性", "女性セブン", "FRIDAY", "NEWSポストセブン",
+    "音楽ナタリー", "映画ナタリー", "お笑いナタリー", "シネマトゥデイ", "TVer",
+    "celebrity", "celebrities", "Hollywood", "actress", "Kardashian", "red carpet", "Grammy", "Oscars", "pop star"
+  ],
+  "stop_words": [
+    "ニュース", "速報", "記事", "発表", "公開", "開始", "提供", "対応", "可能", "機能", "記者", "会見", "情報",
+    "日本", "世界", "今年", "来年", "昨年", "今日", "明日", "以上", "以下", "方針", "予定", "結果", "影響", "関係",
+    "問題", "検討", "実施", "必要", "方法", "場合", "理由", "意味", "解説", "紹介", "まとめ", "ポイント", "コメント",
+    "本当", "全国", "政府", "首相", "大統領", "年度", "月期", "前年", "同期", "見通", "発売", "登場", "追加",
+    "Google", "Yahoo", "NHK", "BBC", "ITmedia", "Publickey", "Zenn", "Qiita", "NEWS", "News", "News1", "the", "The",
+    "and", "for", "with", "from", "that", "this", "says", "said", "after", "over", "into", "will", "have", "about",
+    "what", "how", "why", "who", "new", "New", "Show", "HN", "Ask", "Launch", "PDF", "Video", "World", "Live"
+  ]
+}
