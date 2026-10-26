@@ -144,7 +144,9 @@ def tokens(title: str) -> set[str]:
         t = t.strip(".-")
         if len(t) < 2 or t in STOP or t.lower() in STOP:
             continue
-        if re.fullmatch(r"[a-z]+", t) and len(t) < 4:  # 小文字の短い英単語は除外
+        if re.fullmatch(r"[a-z][a-z\-]*", t):  # 小文字だけの英単語（一般語）は除外
+            continue
+        if re.search(r"[0-9]", t) and re.search(r"[日月年時分週]", t):  # 「26日」などの日付
             continue
         if re.fullmatch(r"[0-9\.\+\-]+", t):  # 数字だけは除外
             continue
