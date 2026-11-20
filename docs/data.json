@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:20+09:00",
+ "updated": "2026-11-20T21:57+09:00",
  "categories": {
   "it": "IT・テック",
   "world": "世界情勢",
@@ -9,23 +9,23 @@
  "trends": [
   {
    "word": "AI",
-   "count": 39,
+   "count": 40,
    "category": "it"
   },
   {
-   "word": "トランプ",
-   "count": 10,
-   "category": "world"
+   "word": "アクセス",
+   "count": 11,
+   "category": "it"
+  },
+  {
+   "word": "不正",
+   "count": 11,
+   "category": "it"
   },
   {
    "word": "ウクライナ",
-   "count": 8,
+   "count": 9,
    "category": "world"
-  },
-  {
-   "word": "脆弱性",
-   "count": 12,
-   "category": "it"
   },
   {
    "word": "アンソロピック",
@@ -34,57 +34,67 @@
   },
   {
    "word": "ロシア",
-   "count": 7,
-   "category": "world"
-  },
-  {
-   "word": "Anthropic",
-   "count": 9,
-   "category": "world"
-  },
-  {
-   "word": "PHP",
    "count": 8,
-   "category": "it"
-  },
-  {
-   "word": "攻撃",
-   "count": 8,
-   "category": "world"
-  },
-  {
-   "word": "Trump",
-   "count": 14,
    "category": "world"
   },
   {
    "word": "US",
-   "count": 14,
+   "count": 13,
    "category": "world"
   },
   {
-   "word": "Rohingya",
-   "count": 9,
-   "category": "world"
-  },
-  {
-   "word": "Gemini",
-   "count": 5,
-   "category": "it"
-  },
-  {
-   "word": "プーチン",
-   "count": 5,
-   "category": "world"
-  },
-  {
-   "word": "オンライン",
+   "word": "Anthropic",
    "count": 6,
    "category": "world"
   },
   {
-   "word": "不正アクセス",
+   "word": "Rohingya",
+   "count": 10,
+   "category": "world"
+  },
+  {
+   "word": "上場",
+   "count": 6,
+   "category": "economy"
+  },
+  {
+   "word": "エヌビディア",
    "count": 5,
+   "category": "it"
+  },
+  {
+   "word": "トランプ",
+   "count": 5,
+   "category": "world"
+  },
+  {
+   "word": "アプリ",
+   "count": 5,
+   "category": "it"
+  },
+  {
+   "word": "Trump",
+   "count": 8,
+   "category": "world"
+  },
+  {
+   "word": "サービス",
+   "count": 6,
+   "category": "it"
+  },
+  {
+   "word": "脆弱性",
+   "count": 6,
+   "category": "it"
+  },
+  {
+   "word": "データセンター",
+   "count": 4,
+   "category": "it"
+  },
+  {
+   "word": "Apple",
+   "count": 4,
    "category": "it"
   },
   {
@@ -93,22 +103,1332 @@
    "category": "economy"
   },
   {
-   "word": "アプリ",
+   "word": "ユーザー",
    "count": 4,
-   "category": "it"
-  },
-  {
-   "word": "北海道",
-   "count": 4,
-   "category": "economy"
-  },
-  {
-   "word": "上場",
-   "count": 5,
    "category": "it"
   }
  ],
  "articles": [
+  {
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:56:48+00:00",
+   "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+   "score": 0
+  },
+  {
+   "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:34:54+00:00",
+   "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
+   "score": 0
+  },
+  {
+   "title": "BaddyDeadpool: The protester blending humour with activism",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/baddydeadpool-the-protester-blending-humour-with-activism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:26:29+00:00",
+   "summary": "Al Jazeera spoke to BaddyDeadpool, a French protester who uses dance to ease tensions between police and demonstrators.",
+   "score": 0
+  },
+  {
+   "title": "What does the ICJ’s Rohingya genocide ruling mean for Gaza?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/what-does-the-icjs-rohingya-genocide-ruling-mean-for-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:20:29+00:00",
+   "summary": "The case sets a precedent for establishing a state's intent to commit genocide beyond explicitly written orders.",
+   "score": 0
+  },
+  {
+   "title": "Searching for the next Messi at the Under-17 World Cup",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:20:09+00:00",
+   "summary": "Nearly 100 football scouts are in Qatar, searching for the next superstar at the FIFA Under-17 World Cup.",
+   "score": 0
+  },
+  {
+   "title": "US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T12:19:24+00:00",
+   "summary": "CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.",
+   "score": 0
+  },
+  {
+   "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T12:18:07+00:00",
+   "summary": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。",
+   "score": 0
+  },
+  {
+   "title": "ノーベル賞の硤合憲三さん 授賞式を前にミトンのプレゼント（朝日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56TXZsMkNCUGhUWFhZcHRJVkZqZXJCVkcxcFFVdV9Rdm4xLWpXN0h2RF9yV2JKYVFrYWNiZDFJbmlBVDE0ZUdOZ2JacWQ2aHNKVTdSUlRrVnpvbVdZRUdMa0FmWkJyczE3b29RbVdQcVg2dFFCQmxEanA3MEg0MlU?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T12:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Newcastle United vs Arsenal: Premier League – Predictions, lineups, preview",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/newcastle-united-arsenal-premier-league-predictions-lineups-saka-saliba?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:59:52+00:00",
+   "summary": "As players return from international break, Premier League leaders Arsenal face Newcastle away on match day 11.",
+   "score": 0
+  },
+  {
+   "title": "‘We didn’t come here to beg’: Africa’s message at COP31",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/we-didnt-come-here-to-beg-africas-message-at-cop31?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:55:16+00:00",
+   "summary": "Ghana has demanded climate justice and funding for African nations, warning COP31 leaders against empty promises.",
+   "score": 0
+  },
+  {
+   "title": "ロシア内陸1300キロの石油拠点にドローン攻撃…夜空を照らす激しい閃光、ウクライナが狙った重要施設とは",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DTUFHdTBXOVJRREszdlk1djZoczRzUThJLVRMaDF6YlEteXBVT3plVlVlTndlbDFqT0hWOTVfc2QzR0FjQlEzMHdCdnVHc3lqOUJJY0Q5SFhTak15RDJLN0c5dGg4MmJUcFJ6Qm85MjBTcUNsd01nekg5Y3EzbkE?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T11:40:12+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "楽天証券の個人情報漏えい、片山金融相「非常に遺憾で重く受け止めている」…２万人超が「集団訴訟」へ登録",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UQVpQc0N1YlpWaEc0TUMtRWZRWi1KLVdUVHVrbVk3ZndQV25tUTdFNEd5Y29Gb2lweC1WY3ZKR2VabzItdnJHV3M0N2UwdlFGNzhTbm83TVJwUkotR0tncUlFSTE?oc=5",
+   "source": "読売新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T11:30:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "US appoints new cybersecurity chief after series of tech failures",
+   "link": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:26:28+00:00",
+   "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+   "score": 0
+  },
+  {
+   "title": "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
+   "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:20:19+00:00",
+   "summary": "Deals on food and animal goods, mobility and student fees have been agreed, but months of negotiations lay ahead.",
+   "score": 0
+  },
+  {
+   "title": "監視カメラも罰則も不要…英国大学がコーヒーの\"タダ飲み\"を減らした料金表に貼った写真に写っていたもの",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtZGZ6aVYtaUhUbXFmSGxZV3hld0pnekpqcmlRWGxkTjByQXhBZ0s2ZEpNNVUtS3Y2ZzB6SXNReVNqRG9fT1ZoRVNWS0dTc1U5QjZXVThPWmtFUmM0ZWh2M3R4aTFXdFVUTlFoMlJrT2twQUF0NTU0V0R1YTZINnc?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T11:15:42+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:10:06+00:00",
+   "summary": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+   "score": 0
+  },
+  {
+   "title": "GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例 サポートが注意喚起（ITmedia Mobile）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qanVOTy02ZmdzV1lqUTdYVHRUQ0FfV1NPOXZDUUxIbzNMRnNjaWN2MmthZGR5NGZ0X3ZDTjREVXlwU3BYdUtCbmJhdWhNYktobW03Vnl1WUJSbmFtNW5aUlM2Q1FsRUNzeHptUjVpbXBPVWp1bUNmOE1jWnJmQ0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T11:04:14+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "訂正-三井住友銀、委託先に不正アクセス 最大1400万件の情報漏えい（ロイター）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NM282OUQ4cDcxdjRhc2I1M3I3R3NwZnFXNU5KV3RpVmRKUUdYYnpXUGgycXFtdk9JanRLY1Q2VUlTczcwbENZVE1WQ0tuQXRLb1E0c3BoUnoyLTlGU0ZzX2poOFhzMU92VHZ1eTdKMkxsM0l1VFMxY09MZFE4MW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T11:02:25+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T11:01:51+00:00",
+   "summary": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine 'stretches credulity'.",
+   "score": 0
+  },
+  {
+   "title": "Nearly 600 women killed in South Africa within three months",
+   "link": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T10:56:02+00:00",
+   "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+   "score": 0
+  },
+  {
+   "title": "「住所と資産が知られたら狙われる」監視カメラ設置する利用者も…楽天証券の個人情報流出問題 集団訴訟準備に1.5万人超登録（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OMS1sZ2NBTHlwSHNoenFMYjFxakpWSGdSVnVraFRDdkxLelF5VDdTakZhNVJGc3VxN09BM0d2Z0ZGbENMc0dkMVFvc2RNLWZtOWxMNnE3Wl9fZUNxVkFNWjcxQmJEckZiLXkxejhkVXYzTnFZREhmb08tMG1CVzg?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T10:52:25+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Can the Rohingya genocide verdict deliver justice?",
+   "link": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T10:45:20+00:00",
+   "summary": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+   "score": 0
+  },
+  {
+   "title": "丸井G、顧客情報延べ1733万件が漏洩 委託先に不正アクセス - 日本経済新聞",
+   "link": "https://www.nikkei.com/article/DGXZQOUC209MW0Q6A121C2000000/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T10:38:11+00:00",
+   "summary": "丸井グループは20日、延べ1733万件の顧客情報が漏洩したと発表した。委託先のプレイドが提供するサービス「KARTE（カルテ）」が不正アクセスを受けた。電子商取引（EC）サイト利用者や丸井グループのクレジットカード利用者の氏名、性別、生年月日、メールアドレス、顧客管理番号などが漏洩した。13日に委託先から不正ア...",
+   "score": 7
+  },
+  {
+   "title": "Drone operator removes Man United training footage and issues apology",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T10:37:20+00:00",
+   "summary": "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online.",
+   "score": 0
+  },
+  {
+   "title": "Google検索、AIモードの履歴を開くサイドバーをトップページにも順次展開",
+   "link": "https://gihyo.jp/article/2026/11/google-search-homepage-sidebar?utm_source=feed",
+   "source": "gihyo.jp",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T10:26:53+00:00",
+   "summary": "Google検索のプロダクト担当バイスプレジデント、Robby Stein氏は2026年11月19日、パソコン向けのGoogle検索トップページに折りたたみ式のサイドバーを世界各地で順次展開しているとXで案内した。AIモードでのやり取りを、検索トップページから直接再開できるようになる。",
+   "score": 0
+  },
+  {
+   "title": "丸井G、顧客情報延べ1733万件が漏洩 委託先に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbUlhYTlSQVdNeU1qVXp3UnZBOVB3dFNnd1o4aFd0d1RCblFXRWQ1a18yUEZwUGtsak14Y1oxQmV1YnN3WTNIc0RKRzZocjY5ajZTS3BlT0lsQ21VWnk5TTRZdFB6V0JyNWMxSg?oc=5",
+   "source": "日本経済新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T10:20:27+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "横浜・原澤新市長が家賃42万円の新居 税金で9割負担 初期費用168万円も",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yTXVpUEI3Yl8tV2FaNDY0ZDRWS0RLRjlJbXFod2NMem42QVp3bFFRd19sX01nLWdLR1JSSm1jWTlrS09pblBEZldKN1c4M1hwVmdnTzZOb1dJdk56UHE1Sk1EaWs0UWpObGxTNjl5b2J5UQ?oc=5",
+   "source": "テレ朝NEWS",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T10:19:17+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "South Korea catches 111 students with new measures against exam cheating",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T10:16:19+00:00",
+   "summary": "The students were caught with banned smart devices while taking the high-stakes Suneung exam.",
+   "score": 0
+  },
+  {
+   "title": "AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功",
+   "link": "https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T10:11:37+00:00",
+   "summary": "大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰...",
+   "score": 7
+  },
+  {
+   "title": "【速報】三井住友銀で情報漏えい、最大1400万件",
+   "link": "https://www.47news.jp/15262461.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T10:10:25+00:00",
+   "summary": "三井住友銀行は20日、顧客情報が最大約1400万件漏えいしたと発表した。業務委託先のプレイドのサービスが不正アクセスを受けたため。",
+   "score": 100
+  },
+  {
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "link": "https://architectlabs.com/blog/frostbite",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T10:01:41+00:00",
+   "summary": "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 194 # Comments: 122",
+   "score": 0
+  },
+  {
+   "title": "株式市場も病気のように荒れる数日前から「症状」を出していた",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YTDNxQ3JrSDQ2LTlOMFU2VE94R2dlMnZrMlhQd0d2NlBVQlhYdjNJTE1uUjJCQ1BjZFZvRUtYczU1N25LZWJWQmxmcTl5dTBITmNpTHFTazdOeHM?oc=5",
+   "source": "ナゾロジー",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T10:00:41+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "茂木外相「中国はアジアの覇権国ではない」 米中ロ首脳会談で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FbFFxaE9tdTNlQVZhQkpwN2NNWEdXa05JVHNFaG1jUFE1NXIyYWZvWHlaaEZNNEEwMWlxRTRxSE1aLXFNajczTzRvSGt4dGlzYm9TLXhiamZmLXJkclRPUjdicXNjb3RNa1UyRg?oc=5",
+   "source": "日本経済新聞",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T10:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "POS端末700台超がマルウェア感染、Windowsの脆弱性悪用でカード情報100万件超が流出",
+   "link": "https://news.mynavi.jp/techplus/article/20261120-5367457/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T09:57:14+00:00",
+   "summary": "CyberNewsは2026年11月18日(現地時間)、「Over 1 million credit cards stolen in attack spanning 20 countries｜Cybernews」において、20かカ以上に設置された700台超のPOS(販売時点情報管理)端末を標的とするサイバー攻撃が発生し",
+   "score": 24
+  },
+  {
+   "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+   "link": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T09:54:00+00:00",
+   "summary": "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge.",
+   "score": 0
+  },
+  {
+   "title": "政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞",
+   "link": "https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T09:47:01+00:00",
+   "summary": "デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。流出した件数や個人情報が含まれていたかなどの詳細については、「調査…",
+   "score": 4
+  },
+  {
+   "title": "公認会計士、14歳が史上最年少で合格 1687人が「狭き門」突破",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTOXVEc1lUMUNyaG9zSFhiMzJYYUNqd085c0VjMWxPU1V4WG5YMTdhZUZfTHppUk1KWjBDMEUtN1pFdFUzdHdWR2FWRzVQc19E?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T09:38:47+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T09:37:59+00:00",
+   "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+   "score": 0
+  },
+  {
+   "title": "習氏が豪州やASEAN首脳と個別に会談 前日の米中露会談への「祝意」も受ける",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnF0UFFlYU9xTlA2RVlhTFdXbzBGNFp6TmFNd1lyazZCalFYcFh5eVBRekowZGxJNnlXZmVJY0FtQ0FXQ2FBUjl6NEtBVmdaVHVEYkNMcE9NQ0tHX1VHdHR4STl6NUFxRFEzYTJpWTlSanZoR3FfS1ctSnBsWW9IZUIyUFo1bmw2eXp3dGlUT2tLZ2YyNDlQNVhZZDRNakxy0gGmAUFVX3lxTE12ZE5RYWtobTZxaDVUaWE1WWtGNkZkekU1d0VqSHlrTm9QRHM1MXRkcXpralVLVGZtNk56V002LWZsNy1TNjNmSmFTbjhoeVUxLTF2bC1XMWQ0RHY2RmVuaVJZaVY5VEZZV0JDSXR2UGJ6a2hKOFFsMmkzdFF4U3l0OTZyNmpONm9UTDFBVHpnSzI1eEVYbVlOc2czaFZYRjJMTlVpMlE?oc=5",
+   "source": "ｄメニューニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T09:35:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "必死で資料を作った会議、上役の「直近のセキュリティ危機は大丈夫なのか」って質問に上司が「あなたが予算を減らしたのでダメです」って返して15分で終わった",
+   "link": "https://togetter.com/li/2772854",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T09:29:14+00:00",
+   "summary": "鳥野花菜 @torino212 必死で作った資料の会議、開始15分で最後のだけ使って終わったんだけどどういうことなの…？ 上役が「直近のセキュリティ危機は大丈夫なのか(意訳)」って言ったら、上司が「いえ、全く駄目です。あなたが5年連続で予算減額したので、対策費用ないです」で上役が役員に連行されて終わり。マジかよ 202",
+   "score": 14
+  },
+  {
+   "title": "「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】",
+   "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T09:26:32+00:00",
+   "summary": "",
+   "score": 90
+  },
+  {
+   "title": "ロシアがウクライナに大規模攻撃、死者も 米中ロ会談で「世界平和の推進役」を自任（CNN.co.jp）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WNndlSEtZU0REVEZPRDhiUU0tV29yVzhaRjBVTWU4MFNWNzB3QVlxNFJqWE13QkpSTHhzb05xYV9NdU8zNjVKMnpJTHY4ekl5c0h3TFJNMFdabldjc3lrQUZITkFQdG11RjRVM3E5UVV0WDM4SnQ5dC1RUGxNQUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T09:22:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "麻生グループ生コン不正、190現場に出荷 系列2社も調査 国会で民改・神谷氏が追及（産経新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oOEhjOEJlU3FPRGYycGVEMXItUklVRnJOSEZUanR0X1JabzdWbTZqOFNiTjhybUl0eXE3QjRUVl9uNnlZaVk0M3J5ZGtCd2M4U0thUDBrcGkxSGRtQ2U3STFYYUJ1ZlR3emxRZVBiRGFtVktRN2NrU0g2ZFJwTVE?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T09:17:56+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T09:16:30+00:00",
+   "summary": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+   "score": 0
+  },
+  {
+   "title": "元気になるどころか悪化する…犯罪心理学者が警鐘｢メンタル不調を絶対相談してはいけない相手｣（プレジデントオンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WcXdWeUJ3eXJ2dGctOGVhbUVwSS13QjdLcDdKTzBLa2VscnhLN1Jld3pIVGwzdkFUTnRCaTNSV2dtZFgzOEc4anBxUWsyX2lzb0pwUVlFNnE2R1lpakdQQkhtNGpLYzd2NmlZNXh3UzQ3RzNpZUVzbUlBQVZCS0k?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T09:15:39+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
+   "link": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T09:13:09+00:00",
+   "summary": "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/ Comments URL: https://news.ycombinator.com/item?id=50572116 Points: 203 # Comme",
+   "score": 0
+  },
+  {
+   "title": "Pakistan minister visits India for first time since 2025 war",
+   "link": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T09:11:57+00:00",
+   "summary": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+   "score": 0
+  },
+  {
+   "title": "政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表 [情報漏洩・個人情報流出の最新ニュース]",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqTWE5dVRTWGxBV2RmTGFJNVlyVHBTYnZYS3M0aUFVWTZoazlZSl95S1dheWlPbGVILUdkYklsRENSb0owN2k2OUZXS2ItMk5BNFlWRThMclNob0ZYdk9WWXBVcUl6aDg?oc=5",
+   "source": "朝日新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T09:11:09+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
+   "link": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T09:00:06+00:00",
+   "summary": "こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTKの受信機とAndro",
+   "score": 0
+  },
+  {
+   "title": "Russia’s day-long attack on Kyiv damages embassies",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T08:56:08+00:00",
+   "summary": "Russia’s day-long attack on Kyiv damages embassies",
+   "score": 0
+  },
+  {
+   "title": "ワイドスクワット、毎日30回続けるとどうなる？3週間で変わること",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yR2Q0N0RkVHlUa2hpOGpNWnFDT05QNmh1ZEExV2lUQmhPRld6MHhqQ0pwNk5IbjFKenNMZ3BNdW1yaWk0dWp5QmM1d1dZUlV0blNhS1RYdENWZEVyS3J6TlRVY3JacllkNUxJU0ZxTTY?oc=5",
+   "source": "スポーツナビ",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T08:49:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "韓国大学入試で電子機器不正111件摘発 AI受験疑惑巡り死者も発生",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T08:48:50+00:00",
+   "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。",
+   "score": 0
+  },
+  {
+   "title": "明治「スーパーカップ」値上げへ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KOEdsR1hWNlVJWGdZeDZlRzNXWWs0S2JTMFhQNHpuUDRtcTNPYjFyTkZnUXJ6Y3JrSTRtRXRvcjV3bE5scWgxRkFkUlZ6dzFv?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T08:40:19+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "はてなエンジニアの自作RSSリーダーをご紹介します 2026 - Hatena Developer Blog",
+   "link": "https://developer.hatenastaff.com/entry/2026/11/20/162322",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T08:33:42+00:00",
+   "summary": "はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...",
+   "score": 102
+  },
+  {
+   "title": "ヘンリー王子、必要ならロシアと戦うため軍に復帰する用意 英メディアに発言（CNN.co.jp）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95cVltd1lzVWNoV2Q3SWFMMWoybHhobzV4d1JqcmZ5a0dKbTRtaHh3dGt1bnd0RXUwTmJ0dkU2cmxzbU1fNk1yYUR6Y1M2b3hUZllVM0twMzdpSUlxZ1d3M0RldDJhZlhwNHdCc1ptdUpuOWZzUjBmYVFpYUxLQjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T08:22:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "El Salvador’s Bukele seeks third term after constitution change",
+   "link": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T08:21:34+00:00",
+   "summary": "Critics accuse populist president of engineering a de facto one-party state in El Salvador.",
+   "score": 0
+  },
+  {
+   "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T08:13:16+00:00",
+   "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。",
+   "score": 0
+  },
+  {
+   "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管 来年1月の11号機から",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T08:09:25+00:00",
+   "summary": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。",
+   "score": 0
+  },
+  {
+   "title": "ChatGPTのAIエージェントdots、米国のBusiness Standardで提供開始。Plusでは少数のユーザーを対象にテスト ——ChatGPTモバイルアプリに自分のdotとの会話を開く専用タブ",
+   "link": "https://gihyo.jp/article/2026/11/chatgpt-dots-expanded-access-and-mobile-app-redesign?utm_source=feed",
+   "source": "gihyo.jp",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T08:07:46+00:00",
+   "summary": "OpenAIは2026年11月19日、AIエージェント「dots」の提供を米国のChatGPT Business Standardで始めた。個人向けのChatGPT Plusでは、少数のユーザーが試験的にdotsを利用できる。",
+   "score": 0
+  },
+  {
+   "title": "US robbery suspects charged over alleged $22M train heist spree",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:56:30+00:00",
+   "summary": "US robbery suspects charged over alleged $22M train heist spree",
+   "score": 0
+  },
+  {
+   "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
+   "link": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:56:03+00:00",
+   "summary": "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third.",
+   "score": 0
+  },
+  {
+   "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:37:55+00:00",
+   "summary": "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year.",
+   "score": 0
+  },
+  {
+   "title": "イオンブラックフライデー2026 チラシ・セール情報まとめ",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnl5NEl5ZVRqcXpybjM3OTExcVlTLXhEN3lUcFpldVhwSG91dndmLVE2UnExYmJIaWxkaUlJbFhTMVBCY0V5RjBianl6RjJCMjdaYUNHbU1EdDhGV3NCb0FJdDAweC13NmNNeTc1TWkyNDRHSzhpZXR4MVhaRjBhVDdNTGFqVFBia1pDMmpUdDk0eEo5YnNNNU01cjlzZVYtdHBKTnRxbUE5SDV2aUpZQk1iZGFXSHM?oc=5",
+   "source": "Goal.com",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T07:33:43+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "届けた後の破損、補償不要 「置き配」で国交省指針案 トラブル回避へ責任明示へ",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MOFZKOF9EUTBqWnNaa2tpenE3ckFJWE50Z3Y4bGMwOUx3UjQwUFp6ZGwwVUNiZXVzdGg0Ulp5UUtKazV0UnB6blRiYUZieFhKSS1wOUpsRUllSEMzRmNpTWEwekV1cXBJcXoxUlpYYTdpbFVucWc?oc=5",
+   "source": "産経ニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T07:31:29+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "国産AIノエトラ支援、半導体高騰で8000億円膨張 国の負担重く",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sYXdtSHNuZWFLMGg0OVVmRHByYnNBd0VHMWdzUG1wUVFPMVgtVjhzX1VSY2NLYm5lU29XMU13T3MtQm5zV3RWeEhiY0hjZGFtNm5uOHlsSEd2YlV0YnRWdlpxb1B3OW9CN2tVRg?oc=5",
+   "source": "日本経済新聞",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T07:30:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "当社グループが利用するクラウドサービスの委託先への不正アクセスによる情報流出の可能性について",
+   "link": "https://about.mercari.com/press/news/articles/20261120_incidentreport/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T07:28:26+00:00",
+   "summary": "株式会社メルカリは、当社グループ（株式会社メルカリ、株式会社メルペイ、株式会社メルコイン）が社内の業務で利用しているクラウドサービス「Notion」（提供元：Notion Labs, Inc.、以下、Notion社）のNotion AIについて、Notion社が処理の一部を委託していたFireworks AI, Inc",
+   "score": 29
+  },
+  {
+   "title": "「富岳」不正アクセス、他機関につながる秘密鍵430件に持ち出しの痕跡 住所や電話番号も対象に（テクノエッジ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZZzFQUnZGMXNsS01pLXdWNmNBNkVhdUpXejYxdGtDNzIzdEdFZlZUT01JSkVZSFVvQ1lsdTc2cEFWbjlKWENIN0lXWDgxOHJwTkpGQldhMnE4TmVPREV6Zjhfd1lCMGprZWhtc0F1WlBFdW1aaTFpalVxdzNwaFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T07:23:17+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安 TOPIXも3.9%安で全面安の展開に",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Na0wwQk9ManVzWjRZZWNZM09oSEV2T1czNkJaUkhiMTFWcWJzTGdvbG5jbWZMbUxxczFVbENLY2pSajJ4S0JIVlo0OEZvb3VNSlBNdtIBV0FVX3lxTE8zMXRvY2k1THlqYVZ4dXFiWTFibGZwX0dQOG9kN2ZINmhPamoyZS1NbzhCSl9CTENpenNNNTJJMHNpVWJLelpFeUhLVk1Pa21zWVpLM1AtMA?oc=5",
+   "source": "マネクリ",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T07:21:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "The Gambia stood up for the Rohingya, now the world must act",
+   "link": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:20:53+00:00",
+   "summary": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
+   "score": 0
+  },
+  {
+   "title": "\"I can tell you wrote this yourself\"",
+   "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T07:13:21+00:00",
+   "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 252 # Commen",
+   "score": 0
+  },
+  {
+   "title": "EU and Britain to agree steps towards relations reset",
+   "link": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:12:43+00:00",
+   "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
+   "score": 0
+  },
+  {
+   "title": "アンソロピック上場、従業員のほぼ全員が「百万長者」に 「億万長者」も600人",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oVGpDZ3laeWdkMDktdk5UZlRRVmd4SmR6U3hDMUsxd3dxRGZxcmExWUlfYktvUklEaWFqWVA2LTIta3NYTElLeERqeXB0azFkWUE?oc=5",
+   "source": "CNN",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T07:10:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "まるで「宇宙の化石」--ブラックホール探しの手がかりになる痕跡を多数発見",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZjZISlM4WVR6eFRVVmNvN2tSWUZndVAtN0Q0UXlENXlLQVg0aTB2UVd3STlYenNJRlJxWTlIS1lkSTI3RXp0QUxGWFYyLXlhU3FkVnNySF9QbEtrMUltcWVPNWJOMHpXbGdPdE5wQTY4dFVBcW5XcmF4ZVZaa1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T07:10:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T07:04:27+00:00",
+   "summary": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
+   "score": 0
+  },
+  {
+   "title": "来週の相場展望：好材料に反応薄、日経平均下げ止まりめどは？(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmZLMEJTYUFZQlVmeFI5UWJSZ0Rad0gxNllQOXJZNk14SFNhWGVlZDNQTVpTYWF2UlNQckhyRXBNZkprX2lCOWY4dmFGUzA3S0stMnoxMkVpODJVYnRqaTNYUFhJaUNkOFg1OVpmTll4VTJ4aFB2UGRUY0JPOTFyaklIVlRkVU0?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T07:02:20+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "「無料ストレージクリーナー」と「占いアプリ」は今すぐ消せ。専門家が警告「家族構成や収入まで丸裸にされる」スマホの危険な罠",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hWENlVEpOM1hPQzlRdWtXRFhBWWNtc25FVllKdElJdFRMclpSVlZRb291ZndPaDdJS21mZTE2QlBWNUpmUFBSZ1N4SWFsQlBXZWUzdlllYk9VSTI4ZFZKYnlrQ0hpSlJGRG1CQURhVGhyYWdlMG1rTFBOWWdMMWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:53:03+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ドンキ AI社員「近藤あい」の狙い",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43b0ttMTlvd09yZXVCdzYyUEtNa2VnWjVWbmVJLVIxU2dZZ202TW1EbExCVDI4cHpEZURncWJPWlR5bWdkQ0V5dEVGRUpCc0h1?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:51:42+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "新興株20日 グロース250が7日続落 HiJoJoは初値下回る",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPNDB3V2RibnBjempVTGhOcWtEb21Ha2JFd0hCS0RFOHhpYTZCSW5tUWxUeWZaNFhxWUtBS2phVHlFWFU1azFjYUtXVUlVTXB4WHlSUEQwVmpXUXh5bWh0M2t2eURjM1RsUjMyWg?oc=5",
+   "source": "日本経済新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T06:49:39+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Nigeria moves to end jail terms for attempted suicide",
+   "link": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T06:32:17+00:00",
+   "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
+   "score": 0
+  },
+  {
+   "title": "「最高ですね」大阪・梅田に“うめきたの森”オープン！吉村知事＆横山市長、ここだけの景色を絶賛",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxTnZGWEFFTU5NTkJIOTVUbUtwR18yLUs1WkFTMEFoRi13UmdvWm0tTTViTDZpbDYzd1hUOGxkZURnajl6eFdGeGNzbVRkVGtYME9mSQ?oc=5",
+   "source": "Lmaga.jp",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T06:27:54+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "27年卒大学生の内定率73% 高水準",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5X3pKUXFOUlFBbjVJdnhxVkVZX2sxdHBXVlFiNF9TZnRHM0RqeWxHbTl3bDJkYXlSR285LVFsNFFCakZWcWhMbFltTTdIWUZR?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T06:21:22+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "「北朝鮮行き」の臆測流れる トランプ氏帰国機内で携帯没収：時事ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tSW5ENmVvaEcyVXhFb3hCRmpiQjlaSC00Z2swdjc0NlAwOGM4UktvckU4Y3BtOUVwZ0JxOEdxLW0wZ2RkSVZaNUtjOUNQRGxQN1pBZkE3ell5dUhuUkZJRkVZOA?oc=5",
+   "source": "時事ドットコム",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T06:21:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wVnBqOTFpTzZYUFdMb0lYTExaMWd1cjdoUDJqOWZuY01mS3pUanF5Z3RkQzVLUjFSdTlWOXRQVHo3bGNHcm1ya25EamhqN1cweDFiaU1DTnQ1QjJvdGFxdQ?oc=5",
+   "source": "GIGAZINE",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:20:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "GeminiがMacを代わりに操作可能に アプリやファイルをまたぐ作業も自動化",
+   "link": "https://japan.cnet.com/article/35255218/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:19:30+00:00",
+   "summary": "どのアプリへのアクセスを許可するかはユーザーが選択する。実行中の作業はいつでも一時停止でき、重要な操作に移る前にはユーザーに承認が求められる。アプリをまたぐ作業を任せたい場合は、使うアプリや参照するファイル、成果物を指示に含められる。 使い方の例として、Googleは複数地域のダッシュボードから数値やス...",
+   "score": 9
+  },
+  {
+   "title": "マウス胚、2細胞期に変形 遺伝子群活性化に不可欠 遺伝研・九大（時事通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlTW82VW12QUZxajNyR0xPSkQtVHdXanlhbm1JbUxPMWVpVzBDcld3eTI0MnBDZlh4dkd3QlVjQ3lPd3FlTVRTMFUyeldyZ1YxeUFYUFQ3XzFPMWVKSkUxZEZOMEJheGRfeGZLMkt2U1ZZaWR4SGtjemVWMGw5RHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T06:19:18+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
+   "link": "https://gigazine.net/news/20261120-siri-recap-hands-on/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:15:19+00:00",
+   "summary": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。 I let Apple’s always-listening AI summarize my life for two weeks | The Ve",
+   "score": 15
+  },
+  {
+   "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
+   "link": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+   "source": "Al Jazeera",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T06:15:06+00:00",
+   "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
+   "score": 0
+  },
+  {
+   "title": "韓国の大学入試「修能」、入室時は普通のメガネ…数学の試験後にスマートメガネと判明（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LaFNudEdkdk54a2YxOFBlN2NlX1EzQjVhQTlfQ25aTjdpN0JTREptNEZ4WUZaZnlvNWRqbEtoVzVBLVFJeVJscV9zaURZYWREWnYwNFE1SlFHSTNJTFQ3QWdmNFBUYS12VThoSEgyYm1tYjYxU3VWeXJxaEU0cW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T06:12:17+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "韓国の大学入試「修能」、国語・英語は前年より易しく…上位層では数学が鍵（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaUUhJUzE4dEJZUl9fVHNsM3pNb1BzUkVvRWEyamMyb2NfUUxKNTRhNWNoX3dfeFAtVC1ycHZfRGQ0LXB2ZkxuVUpDd2JtYm5OY3BWRUJhVFlGd0EyX2FIQ01iMDVnX3pHTGQtMjFNTXAwM3dvOHdVMXNGQUFkdkk?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T06:12:17+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ドンキのAI社員「近藤あい」が正式デビュー 販促POPや動画で活躍へ 運営元「すでに裏に20人ぐらいいる」",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:11:05+00:00",
+   "summary": "ドン・キホーテを運営するパン・パシフィック・インターナショナルホールディングス（PPIH）は11月19日、生成AIで制作したAI社員「近藤あい」を23日に正式デビューさせると発表した。同日に東京・品川で開催した新商品展示会では、入り口のディスプレイに近藤あいが登場し、来場者を出迎えた。担当者にAI社員を打ち出し...",
+   "score": 68
+  },
+  {
+   "title": "「Microsoft To Do」アプリが2027年6月で廃止、個人の場合は別アプリへの乗り換えが必要に／法人向けは「Planner」が後継",
+   "link": "https://forest.watch.impress.co.jp/docs/news/2158040.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:00:17+00:00",
+   "summary": "",
+   "score": 42
+  },
+  {
+   "title": "「財布・スマホ・イヤホンなどを入れるのに◎」 スタバの“小さめトート”に「ロゴもすんごくカッコイイ」「ありそうで無い形」「自立するのが便利」の声（ねとらぼ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ycXlTTDZUWUZFamU4U08zZm1tVklHZURILXQyV2VVVlZkX1BKV3dGb1Z1NXNCQlZoWkJfdnE2eWI5bm5sOGgxdjhmVUNRRjkxbXd4d3htQWFTYmdjYlh2U245Y2QtRHJPbzhwcXpUN1EzM2RqQVBhM2tSY0ZSZjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T06:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "グーグルがAIで「創薬」を加速、薬が効かない薬剤耐性菌との戦い",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dGxJSW1waUJUcnE2YWU2UGI0ejdvYmw3QkpFeTl3MWdUTVFnOHFUQUVEaVhvejlzWDB4TU5IRHMxc3RkUUdWZXVCWnhYMkQ0WDNXRXFXWFRfZw?oc=5",
+   "source": "Forbes JAPAN",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T06:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "民間移管H3ロケット 情報収集衛星搭載し来年1月11日打ち上げへ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51V2xfcnRFQ2lmNHQzbDM3aHlubFhxWW1pNUxPV0xiOGJwTGNDRnZldkVTMDQ0a1Fla3NzT2JkMU83enVuTWhPYnBMd3lHZEY3cEEtQnY3VEFXWlhkb2dz?oc=5",
+   "source": "NHKニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T05:57:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Jujutsu Primer",
+   "link": "https://ethanlowman.com/posts/jj-primer/",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T05:46:01+00:00",
+   "summary": "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 151 # Comments: 98",
+   "score": 0
+  },
+  {
+   "title": "8人が死亡したNYアパート崩壊 バス車載カメラが捉えたその瞬間（AP通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ER0I4d2JyNnZGSEJ3WC1hN1F3UXk4ZzNrd0JsQllnZnc2MzIzWl9rZzhNcEhRdDJOSzQybnhSSHkxZHBBUE1JbXB6aWhIVVJhMV9Fdml0ZWpwQm9WeFRJMHVHUlVFQW5oVmoyV2FhMlVWRFV3LVhod0FGSVJHNTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T05:41:06+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "インドネシア・中国首脳会談、南シナ海協力や経済・投資を協議",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vb055MmluRmdoMlViY1ZfcmhoUXRGWGhxWUlENGs2OFZFMGtqM3Vrd1JmaVoyUXlKSXlXUUcyRWtPcUhsNXF4QWVCQmFIQ0otbHJITVljeHoxci1ucVlfaFFzSnNjTWk5anBmTDZmWnRZZUdJSEFfNWVER3FwUdIBgwFBVV95cUxPMGJYbFFNczdYNUVfWGw3V3lCZlVqNmNPbVBUUnRwSXc4T0Eya1VzWkpEWjZoamVaTFpfT2VNTjI4Q1NZcW91NzZyUTFmdGdsSDlMLTNOWjlRUU1YYXN3NVQwRXI3NkdFNjdZWlZjSjF6Yk1kTG16TnRPaUk2ZUt0SkhTWQ?oc=5",
+   "source": "ｄメニューニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T05:30:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "エネルギー価格抑制法案、米上院で可決 データセンター事業者に負担",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GMVNrYy1RZ3NUcktaRjNCQUZ2Y3JkZU1SV3Axb2UzU1pqN2xDZTVZMVVudEZZLTRQNEtuZnQ3YW9lZTZ0MlI3WWJ1SjQ3amVhZnhlUXlzSnpybnFTREJLT0hkdTk5OW12b05jMg?oc=5",
+   "source": "日本経済新聞",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T05:27:10+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "秋田市雄和で積雪３２センチ、１１月の１位に ７市町村に大雪警報【積雪深の一覧】",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIUnZaWXRXc1NRNm1YME5nVFhpamo3WkVQVUZLQnVTZzVPQ2FkZEVFVjlrcUNHRXlRUm50eUJUeW54THVWQkRjVTBqd3o5RTZFY3NsLUVfV2txOW1VVjc2cXJ3?oc=5",
+   "source": "秋田魁新報電子版",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T05:24:12+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ロト6で神奈川県の銀行ATMから1等が誕生 当選金額1億8500万円、どの銀行から？",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjX2FaMEl3MUg5VEVRNXk2dG50RldkNDd6cU1WRjFiSFg1aTR5YWY3SThOQ3hfdThHQzBNeF9qMFVSb0JjSkVkMWtEb2RZUm1ZSFpVTTNHdWN1STBaRlE?oc=5",
+   "source": "福井新聞社",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T05:23:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "欧州諸国首脳、ウクライナでの戦争終結に向けてロシアと協議する用意あると",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOXc1S0xfRGROVlhoV3hweXo3ZjVxN3dwT3dOVTdlOE5tSjdjWGJQN3J2dXVHZjdkaUkwZnRTbkd4SDJ2V3NlX20td2o4cWk5NDliQmtkdHdRWmQyU3hpVNIBZkFVX3lxTE1TRkE5ZDZONjFQMkxqTnJlcFBaaFBycHZRVUFmNEtBanlPUUFSaGRwbkxuN1BnRXlRQkV3M3VBdXhYOXU0UTBVMGxfQ3pYOXhKME9nWGU1Q09GQms4QWp4TWtTS1dxZw?oc=5",
+   "source": "BBC",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T05:12:58+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "「Amazon ブラックフライデー」、対象製品が一部公開 「Kindle」や「Apple Watch Series 12」など",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yT0N3al92Qzk2ZG16WmUxVXZpNTlWRGx0RngxWmdvc1hES1dTeGVCT1JuQ0pidlU0R0ZIRVBXc0phRUVNeDVkSEE4a05kXzdDZVlZUEUxbm0wQWhtd2FoQ2hRMm5ncTg?oc=5",
+   "source": "ケータイ Watch",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T05:05:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "スパコン富岳へ不正アクセス、認証情報430件流出 理研が調査委設置",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RbzJBX2ZSTkRXMWhnTXNkdjljZ3laMDRrZzVrT2VUdWpuOUFvX0NCTXFmd1NXcWZ1bFNFeFpreWhLdjRWNmczd1pQalhuYlZQODV0M3lLbkxvcm56Z3lyalA0ZUJkTEtBUmxxZQ?oc=5",
+   "source": "日本経済新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T05:03:37+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "父親のスマホから事件当日の激しい暴行動画 大阪の3歳暴行死（毎日新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQUQ5RGdmd0FGNFpkSkV6RXJrQnVhdW9zLVBHT1hpdExXdHFtcVU4dElpamRZSnVjc3B0NXJBYlZGa2pwRnlTemhJd2pQT1NhLXprQ2xNMS15YUhPRkQtcUdKWnZPQmlCZS1YbVRVME1wWG9UTG9paWEyeGo4eDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T05:00:20+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ChatGPTの利用枠が“異常な速さ”で減る？ 報告相次ぐ（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jcTFkSFA5YnYxallFQTJMNFlULW9sc3ZQMnVvaENrSnUyNTJkbXZ4ME9SeTVGNzBjaVNpQVVuUm5XZGg4VlVXdkxWUlFaZUpKc0paaTVJTVE5c0psUEh4U3EyTGxoTFVBSEJZZXdfTnJzaVg2MU9RaUlkbko4dVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T05:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ウクライナのＮＡＴＯ加盟議論、欧州安保に「意味ある」＝仏大統領",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUp2bGpjVklYb0Fkc2xuZlZ1a19QUEhQWTdZMExqVUtZenNiVUZPRzhud1BGWTdsRnZheXVoUFRGRDJ6NnBQYWtHV3NTcGQ3YnJyTGlwUlNXRE1wM0ktSkN2dHphcmM2U0dGNmNIcTdrcHJCcFM0MzBVTFlxX3Zua09TVmtQQQ?oc=5",
+   "source": "Reuters",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T05:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Windows 11のロック画面をナレーターで突破できる脆弱性。BitLocker環境も対象",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jc2Z6TTFmYUZ5Q3B0Yld6bWYwSzVxdlgtRjBNQU9JeG9uUTBmVUlBa2VPX0FtYTZBM29yZ3p6SXFHOXBvbExGbTBNTG9HaVVjY3RsR1dPZk40TU01cUFrY2VhYw?oc=5",
+   "source": "PC Watch",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:53:24+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
+   "link": "https://zenn.dev/chaki/articles/4545be3475fdb4",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:33:15+00:00",
+   "summary": "自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OC",
+   "score": 0
+  },
+  {
+   "title": "「あと10年もたないかもしれない」Rubyの父 まつもとゆきひろが危惧するOSS文化の消滅 - エンジニアtype | 転職type",
+   "link": "https://type.jp/et/feature/32219/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:31:59+00:00",
+   "summary": "NEW! 2026.11.20 ITニュース OSSRubyまつもとゆきひろAI 2026年10月、プログラミング言語「PHP」で深刻な脆弱性が発覚し、世界中の利用者に緊急のアップデートが呼びかけられた。 11月にはJavaのオープンソース実装「OpenJDK」でも重大な脆弱性が明らかになるなど、ソフトウエア開発の基盤",
+   "score": 322
+  },
+  {
+   "title": "AIデータセンター需要の疑念で銅価格が急落、6カ月ぶり水準",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VSzQ3ZGRMR05TWXRjSk5XNDBUZ0JoSHJiV3JESUMtUGwzVEhsU0swUEJMcWJabjd1S2s5VmVDeWw0bC1Pc193d0RCWG1fZDZRSlhZZUNxdS1mQQ?oc=5",
+   "source": "Forbes JAPAN",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T04:30:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:29:35+00:00",
+   "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。",
+   "score": 0
+  },
+  {
+   "title": "斜め上からやってきた「SaaSの死」｜ninoya 古越",
+   "link": "https://note.com/aatoku/n/n129df4db50ba",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:28:36+00:00",
+   "summary": "先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全という...",
+   "score": 22
+  },
+  {
+   "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
+   "link": "https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:27:19+00:00",
+   "summary": "20日の東京株式市場で日経平均株価は3日ぶりに反落し、終値は前日比3007円56銭（5.06%）安の5万6436円65銭だった。世界の投資家が望みをかけた人工知能（AI）開発の米アンソロピックの上場は順調な滑り出しとなった一方、それ以外の米株価指数は「全滅」し、祝杯を挙げることはできなかった。AI・半導体関連を中心に売",
+   "score": 62
+  },
+  {
+   "title": "重力を使って壁越しにメッセージを送信することに成功、遮断がほぼ不可能な通信方法だが1ビット送るのに1分かかる",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40VEdsc1E1cVFCV1VqRkN2bkk5Q1VpMEhHWWh1MkpBYk0zc0NFMHIza1czY1lQbzVVdTlya3BIU0MxQ3JSMnhWOTlPcU5SaEk0SldKZFFuVnBWR015ajdTTGhjTVZZN0VwRnhibUJaVmc?oc=5",
+   "source": "GIGAZINE",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T04:15:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "China issues Mount Fuji warning as family of missing climber offers reward",
+   "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T04:13:22+00:00",
+   "summary": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+   "score": 0
+  },
+  {
+   "title": "ハンコヤドットコム、カード番号やセキュリティコード8220件漏えいか 決済画面改ざんされる",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003367/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:05:21+00:00",
+   "summary": "印鑑通販のハンコヤドットコムは11月19日、16日に公表した不正アクセスで、顧客のクレジットカード番号やセキュリティコードなど8220件が漏えいした可能性があると発表した。不正アクセスにより決済画面が改ざんされ、顧客が入力したカード情報が外部へ送信される状態になっていた。 対象は、10月13日から11月12日にかけ..",
+   "score": 25
+  },
+  {
+   "title": "キオクシア株の下げ止まらず PER1倍台目前、AI需要を警戒 - 日本経済新聞",
+   "link": "https://www.nikkei.com/article/DGXZQOUB184O30Y6A111C2000000/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T04:03:54+00:00",
+   "summary": "キオクシアホールディングス株の下落が止まらない。20日の東京株式市場で前日比13%安の7186円まで下げ、7カ月半ぶりの安値を付けた。予想PER（株価収益率）は一時2.0倍と1倍台目前まで切り下がった。人工知能（AI）半導体の需要拡大による中長期的な利益成長シナリオへの警戒感が広がっている。市場予想平均（QUICKコン",
+   "score": 37
+  },
+  {
+   "title": "FFmpeg 9.1 'Gauss'",
+   "link": "https://ffmpeg.org/download.html#release_9.1",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T04:02:39+00:00",
+   "summary": "Article URL: https://ffmpeg.org/download.html#release_9.1 Comments URL: https://news.ycombinator.com/item?id=50569998 Points: 185 # Comments: 26",
+   "score": 0
+  },
+  {
+   "title": "Metaが学校に狙い、10代を「Instagram」へ引き込む計画が社内文書で判明",
+   "link": "https://japan.cnet.com/article/35255211/",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:51:10+00:00",
+   "summary": "NPRが入手して報道した文書によると、MetaはInstagram上に学校ごとのコミュニティーを作り、ユーザー数とエンゲージメントを伸ばすため、「Project Gryffindor」と名付けた取り組みを始めた。名称は「ハリー・ポッター」シリーズに登場するホグワーツ魔法魔術学校の寮、グリフィンドールに由来する。 若いユ",
+   "score": 7
+  },
+  {
+   "title": "PostgreSQL 19",
+   "link": "https://www.postgresql.org/docs/release/19.0/",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T03:45:45+00:00",
+   "summary": "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 254 # Comments: 14",
+   "score": 0
+  },
+  {
+   "title": "【寄稿】米海軍に必要なフリゲート艦、日本にはある",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYy1VTzdxeks0NjZpbGVfY3BYcXFPVFFEelV2YnVGRzQyVVc3NWlWT2FZWHNPSlZCZ2hFZ2RVTkppYzNRaHNTQW5pVmlMalh6YWpzOER5TTd1ZXdEaUNYaFA4Vk9Rd3R0eGVJWkhhVGlqMmFuUlNKemZMcVpjbVJ2Snd3S28?oc=5",
+   "source": "WSJ",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T03:29:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "Microsoftのタスク管理サービス「Microsoft To Do」、突然のサービス終了発表でユーザー動揺【やじうまWatch】",
+   "link": "https://internet.watch.impress.co.jp/docs/yajiuma/2158124.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:27:32+00:00",
+   "summary": "",
+   "score": 26
+  },
+  {
+   "title": "片山財務相 JTの巨額損失計上“成長投資に影響及ぼさない”",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FcGMxQS14VUNrTzhrSVFnZzV3aC15Q01XcjlWRG5JZksybzRZeERrTGdwOThvVnJScU5reXM5a2VwMnlMR041WjItbjRyRG5vMjMwNDVfOFUzSEFya0Zn?oc=5",
+   "source": "NHKニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T03:24:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "AI株急落はエヌビディア騒動のせい…？ 日経6万円割れを招いた“真犯人”とは（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSNTlNSUZ1TGpIVFNQcFNILVg3SlE4S2NtdEdFdTJWWHN5YmVfd3daS3picG5MUDM4cGZzVFkzTU0zNFpWdmpueVp3UmI2QUxvMDZ0dXhLNFI0ZjhjNHhfSGZHLUdHVnAxSWItQjgzc3BKN2JMcE9ELWcwdEZ1bEU?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:20:06+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "私刑が殺す起業家精神 エヌビディア、証拠なき魔女狩りが奪うものは？（木村貴の経済の法則！）",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqbkw1bjl3WU40UTFBR1czVHdhbGFNVmJzTW9QMmpxTnh2OTVhUG5Wc08xS0J6NXJMTThfNG5qMXRTUmxpcjF4MXFtR0MyWEQ2SzJxVUxB?oc=5",
+   "source": "QUICK Money World",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T03:15:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "NANDフラッシュ、ついに値下がりへ。2027年第1四半期に最大-5%の予測",
+   "link": "https://pc.watch.impress.co.jp/docs/news/2158129.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:13:55+00:00",
+   "summary": "",
+   "score": 77
+  },
+  {
+   "title": "【速報】「Payどん」全サービス停止 顧客情報25万件超流出……パスワード、口座番号も可能性 決済システム委託会社に不正アクセス",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXOGQtZHA5T0hzdnY4ME51dzhiZTd5TV9SRHFBV29TM2JTbUstWGVLOVlVNGVJWTFheE5DM0J2OHdDMUhLX3RPNXI0QzdOcUpuWkY1ZGRoQQ?oc=5",
+   "source": "南日本新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T03:13:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "お財布のヒモが爆散！ A20 Pro搭載の新型「iPad mini」を買って分かった魅力と“惜しい点”",
+   "link": "https://www.itmedia.co.jp/pcuser/articles/2611/20/news009.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:05:25+00:00",
+   "summary": "最近のiPad miniは、Appleにとって大事な製品ラインではないような印象を、ほんのりと受ける状況が続いていました。製品が更新されても刺激が少なく、ファンにとっては依然重要な製品ながら、存在感が薄かったと思います。 自分もミニタブレットは好きなものの、しばらく手を出していない状態でした。そして、先日「Gala..",
+   "score": 9
+  },
+  {
+   "title": "MSに再発防止を要請 デジタル相",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UVzhjekt0SUNZYl9fOFRwSjEzZURRV3JlakdJcnA1QjNpeG83T0xGamNjMlZkblNmOFVySWlrOW9taUQzTG0xZjd6M0JvdXhn?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:02:03+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "トランプ氏、ウクライナへのNATO型「安全の保証」に前向き 米特使（ＡＦＰ＝時事）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZR1UyTUo1NzdZYXFmeHpPYzVtSDJCMjl0Ylg2N0hEOE01RUVqRExlX2o1aWp4WXY0Znc1am9oNHZ5ZkIxOFdKZDJNY0xhN2FvdFZaVl9VTnE1b1NFSXpBbG0wbFZhaUFfaHI0dmlPbm5ScWVUVk9Oa1dpZ1ZoYzA?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T03:01:48+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003362/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T03:01:06+00:00",
+   "summary": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。",
+   "score": 0
+  },
+  {
+   "title": "ホンダ、新型SUV「アヴァンシア」世界初公開 次世代ハイブリッドシステムHonda Hybridや新たなHマークを採用",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTdnNSdG04V05KSndodjRfTFQ3VzBtOVdYdVB0Z2g3Z3I1ajVYUDM3aG9xdzV3dlRuWFhvSUJfVzF1UGZGZWhvSjFXTnk3REJ3UWhpaFBZVURGdFNTZHFvWG5Oa0c?oc=5",
+   "source": "Car Watch",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T03:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
   {
    "title": "Asia’s stock markets dive as Anthropic debut fails to allay AI bubble fears",
    "link": "https://www.aljazeera.com/economy/2026/11/20/asias-stock-markets-dive-as-anthropic-debut-fails-to-allay-ai-bubble-fears?traffic_source=rss",
@@ -117,6 +1437,16 @@
    "lang": "en",
    "date": "2026-11-20T02:54:22+00:00",
    "summary": "Indexes in Japan, South Korea, Taiwan and Hong Kong fall amid tech sell-off.",
+   "score": 0
+  },
+  {
+   "title": "商品11時30分 金が下げ幅拡大 NY金は3500ドル台に下落 原油は上げ幅縮小",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FbTJYQmZ0b1F6Y2kxc1VEZWhTZjZEY3JyQ3lzTTBBS3ZzNERfbUJQYW1sUUhGdVJ5QnFCdEx0SUFGRnNMNHk3VTl4b0VDZFc0SnhtdHRSbjlTdFVvUm81N2tvdmd5MEdwWDluYw?oc=5",
+   "source": "日本経済新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T02:52:11+00:00",
+   "summary": "",
    "score": 0
   },
   {
@@ -130,6 +1460,16 @@
    "score": 0
   },
   {
+   "title": "千原ジュニア、現代人の“スマホなしでは生きられない風潮”にしみじみ「愚かやなぁ…」携帯がなかった時代を回顧",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KLVZDWHlqTWIyY2lGeUtMQTRnRGNqbXJMaWh0VXpPSldibTkwSTU0eFZqdnFuWm10Tm5EWm5IbGhRQklFaUMzOWlQQzQtV0JjcWZqdlpCbG1vckV4MUJMcXVsS1RRcnBINVJaSFhPS3Z0UjNtRVRwV3A3RWVDZGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T02:51:18+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "スシローのアメリカ１号店、ＮＹ中心部にオープン…１皿８００円から・チップ不要",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQYWd1WjFVQ3ZncTI4SlJJa2IycFBEWXhUQmlGY2RNdktFY254ZGFZQ09CU1lDYV91akt5YTR5d1VqUm5TRU1KTm16Nm1DRTZvaTNaVDNhcWlPeVdBeE95ZGM1cW0?oc=5",
    "source": "読売新聞",
@@ -140,7 +1480,17 @@
    "score": 0
   },
   {
-   "title": "日経平均午前2669円安、AI・半導体に売り アンソロピックに祝杯ならず",
+   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+   "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T02:43:49+00:00",
+   "summary": "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 1",
+   "score": 0
+  },
+  {
+   "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
    "source": "日本経済新聞",
    "category": "it",
@@ -170,6 +1520,26 @@
    "score": 0
   },
   {
+   "title": "「米ドルで払え。ルーブルなんか要らない」北朝鮮とロシア、水面下の暗闘（金賢） - エキスパート",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdERNZkxndGxGMnJLLW1DWGlsUmI5Sy05LS1vUHcybVd1ZjBPYXhvWWJjdVM1bEFsRFZwVlh2aWNfZkVXbzBFeU9YVF9obmUyWWNsZWVETWlYSFQzYVAwektmcDBRZnpNakZYVHd2M1dXWTlCUGhLbUx2dWdKODdhbF8ybGFKVElC?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T02:35:18+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "【画像ギャラリー】走りと実用性なら俄然新型エルグランド!? アルファード／ヴェルファイアと写真で徹底比較!!",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FbllhYldIR05lVmRjUTctZlhad0psVHh4bDczeTluSDBSb2plcXF2cnRSdFNoT3pmV0dpeWFmYXBFX1RFTjdTZVBOY0R4VEk?oc=5",
+   "source": "bestcarweb.jp",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T02:30:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
    "source": "Al Jazeera",
@@ -190,6 +1560,16 @@
    "score": 0
   },
   {
+   "title": "先頭に貼るだけのキラープロンプト7選、コピペOK。→「所見を頼む前に「中学校の担任として、前向きな言葉で」と1行足すだけで、書き直しが半分に減りました。」",
+   "link": "https://posfie.com/@techjiho/p/3QDGKHH",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T02:23:11+00:00",
+   "summary": "イカヤキ @ikayaki_aiafi ①専門家モード 「あなたはこの分野で20年以上の実務経験を持つ専門家として、一次情報に基づき回答してください」 汎用回答が、一気に専門家インタビュー級に変わる ②結論ファースト 「結論を1行で示し、その後に根拠を3つ箇条書きで。最後に例外があれば添えて」 長文でダラダラ返してくる",
+   "score": 114
+  },
+  {
    "title": "大型主力ロケット「Ｈ３」打ち上げ業務、ＪＡＸＡから三菱重工業に移管へ…世界的な需要応え受注拡大図る",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZlNJRjc5eWpyeURQTDFsVGFWQVdMSDl0QzAzaVBycC1OaGcyYU44dnBHc3dFT1pfTm5fSEwyMUF5NkxRTEw1blVUVWtVaXVESGEyaHJHczFXQm83TU9WbEVwNkw?oc=5",
    "source": "読売新聞",
@@ -200,12 +1580,52 @@
    "score": 0
   },
   {
+   "title": "エヌビディアがジェンセン・フアンを復帰させない理由は？…サム・アルトマンとの決定的な違い（海外）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iYWx3M2tfVENhYmg3SGsydm9HTDZFbkZ4OHNoVDdwa2p6ZWlZQ0YwUUZxQ1JGZFpsa1I5c2dWVlBnSXpaR3ZidXkyM1JIajVlLUREd3cyUE00WTVSZHVuOWhyWDlXdUZLTXZjX09xRmtac0huNUxGdEIyd2ZaNjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T02:10:01+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "GTA6はPC版も大半のPCで60fps困難か。Ryzen 7 9800X3D級のCPUが必要に",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbTZ2R280cUd2eXN6RjZUTWZxR0gxUEJkWkhycHJjbXR2ZFZlTnFwWkgxcC05YkQ5Y2JPRjJsd3FmNU1ncjJrM1l3MnZYRzFsamVpekh0Ullwc0FoX1FjdVdmU29HLXdySXRNd1lraFFPVUE?oc=5",
+   "source": "GAZLOG",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T02:06:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "国会で10回質問…維新・松沢成文氏の警告現実に ロシアのJT管理「戦費に転用の恐れ」（産経新聞）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XeS1KNGlaa1FveEJVdWE2TXdWakRIYmtLcVExVW15Z2ZkN295RXZScmI3UkZhc0Q5cFVucGgzb1FlOWpfSW1yeVI0a3JVTlRMdTZBNGhHSjM5MG80cmc0b0NsLVV3RGJtQm1ac214ZjAtaEtUZ0pXQjQ1YW9nTzQ?oc=5",
    "source": "Yahoo!ニュース",
    "category": "economy",
    "lang": "ja",
    "date": "2026-11-20T02:01:20+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "link": "https://github.com/openssl/openssl/pull/33652",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T02:01:09+00:00",
+   "summary": "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 293 # Comments: 227",
+   "score": 0
+  },
+  {
+   "title": "地球への彗星衝突、生命材料の「安定的な供給源ではない」 最新シミュレーション結果",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zV09UaDRiYmpEYkRGcU52N1ZlVzVEQjUxWEtpS1ZoZy1yQVlJRnJfaERIRk5qVWNmenlXT0Z1WnVLY0FNbUR3YkpEMVZTQjBqQ1lFdEZmdFU2Y0JyWXVGN2I1ZnFpZVM2NFh0Y0JUb1pNRWtYbl9wR19ZT1lCdFE?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T02:00:00+00:00",
    "summary": "",
    "score": 0
   },
@@ -270,6 +1690,46 @@
    "score": 0
   },
   {
+   "title": "世界中に愛されたカバのフィオナ、観客のニット帽のみ込んで死ぬ 米シンシナティ動物園（CNN.co.jp）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMUhYZE5qQVFaY1cyV01hTDF0Sk1Gcmw0bVlQQ2xFUnR4LWhfOFF5NHEzZVRqTTFwc2FITnB2bkpMUk5yQ1BEc1NpRmxzV2RxZnVjVExSeGk2NHBwLURubHJNTkxpaFNPYW13Vl9fYzlVNWEtQWdLeF9MZDRCeUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T01:29:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "US army warns detonation of unstable explosives will create toxic plume",
+   "link": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "category": "world",
+   "lang": "en",
+   "date": "2026-11-20T01:27:27+00:00",
+   "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.",
+   "score": 0
+  },
+  {
+   "title": "CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行",
+   "link": "https://zenn.dev/levtech/articles/14befd8e727f32",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T01:26:30+00:00",
+   "summary": "はじめに こんにちは！ レバテック開発部の皆様と一緒に、開発に携わらせていただいているナカジーです！ この度は CDK 管理のリソースを Terraform に寄せる IaC 移行作業に携わりました。その際に 「所有権を移譲する手法」 をとることで本番インフラ（12 のサービス＋共通基盤、計 13 スタック）を停止させ",
+   "score": 0
+  },
+  {
+   "title": "ハイチ首都で大規模治安作戦、武装ギャング34人死亡と発表",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wUWFrTEIzMVRXaWJrSWZUZEN3MlFjVVEtcnN4ZjFFeGR0S01tS0hGYWZuSm9mSlNzREZ0QnJkREZnM1EybTFVa252VzJLTVdhb3RmUUt3WmR2bzBuOVZvSExwbWdfNmtpTk1hMA?oc=5",
+   "source": "Infoseek",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-20T01:11:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "Democrats say law firm gave $11.8m in free services to Trump administration",
    "link": "https://www.aljazeera.com/news/2026/11/20/democrats-say-law-firm-gave-11-8m-worth-of-service-to-trump-administration?traffic_source=rss",
    "source": "Al Jazeera",
@@ -280,6 +1740,16 @@
    "score": 0
   },
   {
+   "title": "［道路情報］事故で北陸道と関越道が一時通行止め（11月20日）",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNjYwelRPTDBHc0lJSWo3aS11c0lpN2FQZFA0MlFIVGx1NERTQ19EUG1ZZlRTVGoydEd4MkI2ZTA2al95dTBGWGtHZkhIWGhFWENMVk1heGNCWGlJN3c?oc=5",
+   "source": "新潟日報",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T01:08:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "‘Completely messed up everything’: Malawi’s fuel crisis causes chaos",
    "link": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
    "source": "Al Jazeera",
@@ -287,6 +1757,16 @@
    "lang": "en",
    "date": "2026-11-20T01:06:15+00:00",
    "summary": "Motorists and businesses struggle as shortages disrupt daily life.",
+   "score": 0
+  },
+  {
+   "title": "Vint Cerf on why TCP/IP was never patented",
+   "link": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+   "source": "Hacker News",
+   "category": "it",
+   "lang": "en",
+   "date": "2026-11-20T01:06:12+00:00",
+   "summary": "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 121 # Comments: 57",
    "score": 0
   },
   {
@@ -340,12 +1820,42 @@
    "score": 0
   },
   {
+   "title": "商品9時30分 原油、続伸 中東の混乱継続の見方 金と白金が約1年ぶり安値",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NN0dLNWQzbmY1SUpUbWg3azBLMzMzd3JUNXV1cHM3dVZvbWFKalRuTmJieFk1STl0TTVJR3J4SkphSUQ2R1VTX0tVU2dmLVduQk11SkxwQjZBVGk2aU00NTZ6QVNiT3FPdkRzNA?oc=5",
+   "source": "日本経済新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T00:51:11+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "ゴールドに吹きつける強烈な逆風、金投資家は試練の時",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUb0lsZmhnVGV4bEFSVURNMDQxMGNGTGdZN3k1WnRybWpXQzh5d0VjdFpUWG1XblkxSmdnaTVIU3Q1OGx6VUhENk02Snl3Z0hDTkdFNEtrVExjSnlYa052TWp5aWRXSGxIZWZ2RDlCLVF4VTVLLW1USFRqRXpZeXM?oc=5",
    "source": "Yahoo!ニュース",
    "category": "economy",
    "lang": "ja",
    "date": "2026-11-20T00:45:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "明るさのピーク前に発見された超新星の輝き 南米の望遠鏡が捉えた棒渦巻銀河「NGC 1433」（sorae 宇宙へのポータルサイト）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWZDZSd0ZsQ0psZ09LTlZ1eXAxaDdTT2k0ZVQ1Qk9aYkxtNF9DdUc3bVozZWtzUDB4VU43TUFsMXFaR0RmV3Y5dDJMa3REVnBSTUdTbllWZnZKM3BtemlIZ0JwYm9WS3dlN3JMYkhlUVBpR1lrcUMyalVRSHdSNGM?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-20T00:44:22+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "大の里、磐石の白星も取組中に“驚きの表情” カメラが捉えた一瞬の表情変化に「どうした？」反響相次ぐ（ABEMA TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96OVBDTzUzdG1kWFpYNW9xbkhNWTRMMlJSVlI5V2hJdE5Na2hrcjM0aVQwc1FDV1JrdE82ZWVCZnFjZTFnd3FTM3FTbmlPRU9Sa2V3UFBDUDZwdWZoaTRqOWZJYmY4UmQySnpHNHZWQnRzYV9aR1JhYW0wajhnazg?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-20T00:42:16+00:00",
    "summary": "",
    "score": 0
   },
@@ -430,13 +1940,13 @@
    "score": 0
   },
   {
-   "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
    "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "category": "world",
    "lang": "en",
    "date": "2026-11-20T00:13:21+00:00",
-   "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+   "summary": "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks.",
    "score": 0
   },
   {
@@ -456,6 +1966,36 @@
    "category": "economy",
    "lang": "ja",
    "date": "2026-11-20T00:05:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "【為替】変わらなかった「経常黒字＝円安」",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JRjFHMkZIMkJneEVmTFJMYWFNblE1VVQ1WUxYR0JWcXZ4LWR5T3pERzRLdTVJa2JZYjh0NE5rbnFIOVZYUEcxYThJMHFFQmFvWkdCZ9IBV0FVX3lxTE13QXNRR1hMbm1PclJmRWU0Q1lBOW1Rdnh0SWtjLWNCOE9wa3dGbTlDeVo4ejZ6cHNXM2pqd0QtU3JGenpVQXRqTlhjVkdGZVNENVhFbnZodw?oc=5",
+   "source": "マネクリ",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T00:05:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "物価高 アイスは値上げ 居酒屋やピザ店は低価格で 農家は悲鳴",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hWWVoVmRha0hIN2JDbld3RS1PZkZoS1ozU3pyc0ctZkdreVpoZEt0ZnQyVFhMeVl6UUk4NERBRnp5THdoWXQyVm9WdWFYUzkzX0tpcXQyQUJZMm05LU5z?oc=5",
+   "source": "NHKニュース",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T00:03:53+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "【イオンモール伊達・福島民友新聞記者ルポ】広々な開放空間 フードコート県内最大級:地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMMll4a3doY3pRd1pqR0dJajY5MU1zMkVRd0plRW85cjdPUlM3eURVWFVKZ01nNFFha3JYb2t6R29XOHhnNGJvRnVNMng1LUZ1am4xSkFTT3dweG5ZNnJmZGkyUlZ0cnBC?oc=5",
+   "source": "福島民友新聞社",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-20T00:00:00+00:00",
    "summary": "",
    "score": 0
   },
@@ -517,6 +2057,16 @@
    "lang": "ja",
    "date": "2026-11-19T23:41:04+00:00",
    "summary": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
+   "score": 0
+  },
+  {
+   "title": "くわえたばこで大量の吸い殻をわざわざ…鉢植えに悪質投棄 「火事になったらどうする」怒り殺到（ENCOUNT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRjY1Q19ZM1YweEwxSGlJZHhfRHBEN3ZGMkFjSlhUQnJ4TUNSN0Fvd2FFQWlVM1NuMUp3MWFJalo2OWhkeXdEOTVjVkkyWXBhRzYzczhISWVPWXVSNUhkWkxLdU9GMmxPdUkycG4tMmc3TWY2WHpDZEVlMHQxUW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T23:40:00+00:00",
+   "summary": "",
    "score": 0
   },
   {
@@ -587,7 +2137,17 @@
    "lang": "ja",
    "date": "2026-11-19T23:17:42+00:00",
    "summary": "湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...",
-   "score": 63
+   "score": 177
+  },
+  {
+   "title": "（朝）米国市場は3指数揃って下落 ハイテク株を中心に市場全体が下落し売り優勢の展開",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qM0tLU3BLQlpWdlA3eEtveVplcjJjTnMzRms2ZDM1aEI0d2NZUmdGY3BnVDlyQVNfcE91Z2xKRjhBZDFqOFlVOE5INEpWTE80SGllRNIBV0FVX3lxTE8tNFhPY3JsQzBWSGtTai02X1lXXzZtQjVlTGlmNU4tckxGZ0h5UmRaTm5qbFBCN3ZveEhaMDhJclhMR2FBbU9SVzJlNThrcHdjLUVrekpDVQ?oc=5",
+   "source": "マネクリ",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-19T23:17:00+00:00",
+   "summary": "",
+   "score": 0
   },
   {
    "title": "Six killed in suspected gas explosion at Georgia apartment building",
@@ -700,12 +2260,32 @@
    "score": 0
   },
   {
+   "title": "｢彼のせいでみんな疲れている｣ Netflixなら排除も日本は解雇できず…超優秀だが職場を乱す30代社員に上司がとった行動",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tbXBNbGlpSnh5eVA3U2tDVlFfZEVkaWwxa1JwSUc5TGJqam11U05kczdEcFhCVEp3bG1felFLd05UOEJ5ZlQzM1BybUZvWEZIcFExODN2TW5HZjA?oc=5",
+   "source": "東洋経済オンライン",
+   "category": "science",
+   "lang": "ja",
+   "date": "2026-11-19T22:45:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
    "source": "Yahoo!ニュース",
    "category": "it",
    "lang": "ja",
    "date": "2026-11-19T22:44:21+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "アンソロピック 初日終値約97ドル",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DU3B4a2dvWG1LVnVTdGJ2MjNCeDc3M3NqZjdlak9oMFVXamdkaV9mdklOUnNzS29waHRNWHVpajhfeEFEV1hMcnVzNnB0Zy1L?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T22:36:03+00:00",
    "summary": "",
    "score": 0
   },
@@ -756,7 +2336,7 @@
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T22:13:40+00:00",
-   "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 113 # Commen",
+   "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 163 # Commen",
    "score": 0
   },
   {
@@ -774,6 +2354,16 @@
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sY2VQUDN5eFlGTGItRHlSVE9jTGJEcnhhWWhPR1lud3NManpDMUlnMjMwUTR4T21JN3JVMkZ6LTNyX1pZYVNGYjlSSTZ6ZjRpcFBiaEtZTzlfZw?oc=5",
    "source": "Forbes JAPAN",
    "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-19T22:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "なぜ中国はヒューマノイドを量産するのか 突き動かす「焦り」と足踏みの正体：FAイベントレポート（1/3 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vN3VtTXd4R242dUtJTTNjTVZmLUo3ekJXRFdJTkc2Mk0wOXRTeTRua2VweDZWWlVCb3VsV3VRcWJzQVYyQlJHMTJ2b1dsMWR2QjV2aDUtSmd2cjBWT0stb2h1Q3JZNUdYdTJSNXAwcw?oc=5",
+   "source": "MONOist",
+   "category": "it",
    "lang": "ja",
    "date": "2026-11-19T22:00:00+00:00",
    "summary": "",
@@ -800,6 +2390,16 @@
    "score": 0
   },
   {
+   "title": "ＴＳＭＣ、中国向けＡＩ半導体の一部受注停止 米規制強化に対応",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0ktZWdMYmRwdEk4T0I5Y1NXV3RkdHJaUFd4M2E2dUg1S2FUcHo4bVY2Ung0YjJqRTlZeTNhcDNDcXNZZVJEdm1JcXJSWFk4WnFwZGkzY2lneWJ5NkV0ZERNOExpNDhfcm5DTGRkcEtUSmNxVkZlWTRvejhuWWFDWFNDZE8?oc=5",
+   "source": "Reuters",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-19T21:50:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」",
    "link": "https://pc.watch.impress.co.jp/docs/news/2158043.html",
    "source": "はてブ テクノロジー",
@@ -807,7 +2407,7 @@
    "lang": "ja",
    "date": "2026-11-19T21:48:20+00:00",
    "summary": "",
-   "score": 73
+   "score": 173
   },
   {
    "title": "【やじうまミニレビュー】 Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた",
@@ -1080,6 +2680,16 @@
    "score": 0
   },
   {
+   "title": "保険金不正請求のタマホーム、住宅修理工事の受注で最大１８％の歩合給制度…報酬増が目的か",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vZ0k4NjRCMER5enBRUTRaemplbjNpUGFnYy1kR2p1U01QOHdGamtoZzBtM0tPbUk0SHRuRGxDVkplOC05SjNSMzVPRUROM1VpY1NIVmhZQU9obTVsV21iRzhJVE4?oc=5",
+   "source": "読売新聞",
+   "category": "economy",
+   "lang": "ja",
+   "date": "2026-11-19T20:00:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
    "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
    "source": "Al Jazeera",
@@ -1087,6 +2697,16 @@
    "lang": "en",
    "date": "2026-11-19T19:53:24+00:00",
    "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
+   "score": 0
+  },
+  {
+   "title": "NY株大幅続落、5万ドル割れ AI懸念、6カ月半ぶり安値（共同通信）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiTVVSdERQcG5PenRIUzR4aTJZdkpFTkpDZm5UOVNIUEVfX0NzZ29QekpmUGcxdXBaVHduNm92UEFZTkJ6c1BqcVpuV1B0SVNMdmRqN29HVFlMRHk3cFRDRDR6YWdWTklFYS1Zd2NMTElRY3FYYVhjcWV3WUtRODA?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T19:53:12+00:00",
+   "summary": "",
    "score": 0
   },
   {
@@ -1216,7 +2836,7 @@
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T18:35:17+00:00",
-   "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 2",
+   "summary": "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 3",
    "score": 0
   },
   {
@@ -1286,7 +2906,7 @@
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T17:30:44+00:00",
-   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 411 # Comments: 18",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics Comments URL: https://news.ycombinator.com/item?id=50563148 Points: 516 # Comments: 24",
    "score": 0
   },
   {
@@ -1296,7 +2916,7 @@
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T17:25:33+00:00",
-   "summary": "https://archive.ph/2Et0x Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 620 # Comments: 99",
+   "summary": "https://archive.ph/2Et0xhttps://clinicaltrials.gov/study/NCT06693986 Comments URL: https://news.ycombinator.com/item?id=50563066 Points: 807 # Comments: 139",
    "score": 0
   },
   {
@@ -1360,6 +2980,16 @@
    "score": 0
   },
   {
+   "title": "MetaのMuseを使ってみた: 内部構造とセキュリティの調査",
+   "link": "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T15:55:36+00:00",
+   "summary": "Muse が発表されたときも、話は耳に入っていました。ただ、LLM 領域でパッとしない Meta のプロダクトだし、そこまで革命的なものではないだろうと思って、しばらく放っておきました。 ところが、日が経つにつれて、アメリカ・日本のアプリストアで 1 位になった報道や、X での多くの投稿を見るようになりました。これは何",
+   "score": 0
+  },
+  {
    "title": "11月に修正されたPHPの脆弱性についてまとめてみた - piyolog",
    "link": "https://piyolog.hatenadiary.jp/entry/2026/11/20/003148",
    "source": "はてブ テクノロジー",
@@ -1390,13 +3020,13 @@
    "score": 0
   },
   {
-   "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+   "title": "Pete Warden on local AI, open models, voice interfaces, the future of hardware",
    "link": "https://thedataexchange.media/pete-warden-moonshine/",
    "source": "Hacker News",
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T15:38:12+00:00",
-   "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 183 # Comments: 167",
+   "summary": "Article URL: https://thedataexchange.media/pete-warden-moonshine/ Comments URL: https://news.ycombinator.com/item?id=50561508 Points: 260 # Comments: 227",
    "score": 0
   },
   {
@@ -1530,6 +3160,16 @@
    "score": 0
   },
   {
+   "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
+   "link": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T14:13:57+00:00",
+   "summary": "Claude Code では、エージェントに守ってほしい決まりを CLAUDE.md や SKILL.md に書いておくと、エージェントはそれを読んで作業します。私も最初はこうしたルールを普通の Markdown で書いていました。ところがルールが増えるにつれて、どの行がどのルールの例外か、同じ行為を別の場所で禁じてい",
+   "score": 0
+  },
+  {
    "title": "損保大手3社の中間決算 2社は減益（TBS NEWS DIG Powered by JNN）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4YUgyTG5YWmRtT1EteDRfSzduSUtrMXl0M3N2TDE2THNFWFRmMmFMN255YVd2RUctLXBjbWN5dE1BMkk3NlhfRk85RUZqdTVsZFV1QWFITlVVeG9lNnh0R0VRZnV4aUdueW5FbUpIY0NrVUtvU0VkeUF6WWxhYzQ?oc=5",
    "source": "Yahoo!ニュース",
@@ -1550,6 +3190,16 @@
    "score": 14
   },
   {
+   "title": "dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜",
+   "link": "https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie",
+   "source": "Zenn",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T13:48:35+00:00",
+   "summary": "! この記事でわかること 一つの dbt の YAML（MetricFlow）から、Snowflake の Semantic View（Apache Ossie 経由）と Lightdash のメトリクスを両方作れた SQL（Semantic View に AGG() で問い合わせ）・AI（Cortex Analyst",
+   "score": 0
+  },
+  {
    "title": "「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで",
    "link": "https://japan.cnet.com/article/35255171/",
    "source": "はてブ テクノロジー",
@@ -1567,7 +3217,7 @@
    "lang": "ja",
    "date": "2026-11-19T13:44:45+00:00",
    "summary": "Index はじめに AIは間違うことがあると認識する AIは迎合的であることを認識する AIは機械であることを忘れない 重要なことはAIだけに頼って判断しない AI依存になっていないかチェックする AI任せにしない はじめに みなさんは、学業や研究において、GeminiやChatGPTなどの汎用的な生成AIを日常的に",
-   "score": 229
+   "score": 624
   },
   {
    "title": "プログラム言語「PHP」に新たな脆弱性 サービス停止の恐れ - 日本経済新聞",
@@ -1616,6 +3266,16 @@
    "category": "economy",
    "lang": "ja",
    "date": "2026-11-19T13:10:30+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…（ギズモード・ジャパン）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWW1rNWhSYjA2d1Y4U3o1WDJ4UTQ3bXB3eF85QS1Nb3hUbU04UVhhN2ZwV1BqbWotMFFwWVhJdWJNWlhUMDQ4ajM3MDJXZWNQaEZUaWxJVmhPWHI0OWttd0Vrc1BQb09ITm96R09VU1BUcW1IMW84cmtONjhLVUJtbTE4R2huU3VN?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T13:00:01+00:00",
    "summary": "",
    "score": 0
   },
@@ -1708,6 +3368,16 @@
    "date": "2026-11-19T12:31:01+00:00",
    "summary": "",
    "score": 0
+  },
+  {
+   "title": "月で1000年動く半導体、AlNの高放射線耐性を実証",
+   "link": "https://eetimes.itmedia.co.jp/ee/articles/2611/18/news073.html",
+   "source": "はてブ テクノロジー",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T12:24:50+00:00",
+   "summary": "NTTの最新技術や研究を紹介する「NTT R&D FORUM 2026」が、2026年11月18～20日、24～25日にかけてNTT武蔵野研究開発センタ（東京都武蔵野市）で開催される。展示ブースでは、窒化アルミニウム（AlN）の宇宙空間における有用性を紹介していた。 半導体最高クラスの放射線耐性を実証 窒化ガリウム（G",
+   "score": 4
   },
   {
    "title": "Unblockable communication with gravity",
@@ -1836,7 +3506,7 @@
    "category": "it",
    "lang": "en",
    "date": "2026-11-19T11:47:03+00:00",
-   "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 383 # Comments: 100",
+   "summary": "Article URL: https://github.com/openjdk/jdk/pull/32781 Comments URL: https://news.ycombinator.com/item?id=50558906 Points: 438 # Comments: 124",
    "score": 0
   },
   {
@@ -1990,6 +3660,16 @@
    "score": 0
   },
   {
+   "title": "「PHP」に再び脆弱性見つかる 今夜修正版公表 国家サイバー統括室が注意喚起（テレビ朝日系（ANN））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsY0ZYeUVXRzVmZURpVjFvTjBpS1B1ME82RldBcTZ0NUR0bGJpQWxXWFQ2cmlEN0hNMzh5V0R1OW16TFVMMnJwWFNvVjdwWW4zX3lsd1JqZXg3T3hLcHFLSklWRHQxZjlGTWozQVY2SXhGdWd2VkpvNGtWelhiSDQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T11:12:36+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "Denmark parliament approves security deal with Greenland and US",
    "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
    "source": "Al Jazeera",
@@ -2022,11 +3702,11 @@
   {
    "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
    "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-   "source": "はてブ テクノロジー",
+   "source": "ITmedia NEWS",
    "category": "it",
    "lang": "ja",
    "date": "2026-11-19T11:04:47+00:00",
-   "summary": "11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ",
+   "summary": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。",
    "score": 216
   },
   {
@@ -2322,11 +4002,11 @@
   {
    "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し",
    "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
-   "source": "はてブ テクノロジー",
+   "source": "ITmedia NEWS",
    "category": "it",
    "lang": "ja",
    "date": "2026-11-19T09:53:00+00:00",
-   "summary": "「焼肉きんぐ」「ゆず庵」「丸源ラーメン」などを運営する物語コーポレーション（愛知県豊橋市）が、グループの公式アプリ計11本すべてで、会員の氏名と電話番号の項目を廃止していたことが、ITmedia NEWSの取材で分かった。利用者の予約や来店時の手続きは、これまでと変わらないという。",
+   "summary": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。",
    "score": 20
   },
   {
@@ -2410,6 +4090,16 @@
    "score": 0
   },
   {
+   "title": "エアフォースワンから政府専用機まで！ マニラ・深センに各国の特別機が飛来 ASEAN・APEC首脳会議",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05cjlIeHc1SnpZaGNRUGxwcUdKYzZrUlVhcTFFQlRSX1EyOWNPNHlGeVVpakZVUDlMZXN5ZnY4cWJHQ0pfaEJRbE1MLWREWFk?oc=5",
+   "source": "FlyTeam",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-19T09:32:00+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "マスク氏、共和党に資金を投じたのは「かなり愚かだった」「共和党の政策を丸のみして従うつもりはない」",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lMFJubkx3dWVzaUp3dmFXQkN6NFhTcV8wV2tEQWNTVl9zZ3VmaHVMRXNpck5wLUJTNHJkM0I0OXdsbGxiX2xGYkxzeGF6OEVEbVNsSmF5SERwYlFMWVZmUXZ3?oc=5",
    "source": "読売新聞",
@@ -2448,6 +4138,16 @@
    "date": "2026-11-19T09:18:57+00:00",
    "summary": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。",
    "score": 32
+  },
+  {
+   "title": "モディ氏との気まずい一幕、イメルダ夫人との再会 トランプ氏のマニラ訪問こぼれ話",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xTFJDQUVmWXlrakx2YWxUVWI1TmtNV1QxVndHVlJ2cU9Xam5nSllITWxYQXlmaXZRMkR1MGRSdzVhUWVQTjRuWXFFYktXSG9wdmc4VjA3XzhVN3cxeUprSjYtRkFjUQ?oc=5",
+   "source": "時事ドットコム",
+   "category": "world",
+   "lang": "ja",
+   "date": "2026-11-19T09:18:00+00:00",
+   "summary": "",
+   "score": 0
   },
   {
    "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
@@ -2691,11 +4391,11 @@
   },
   {
    "title": "尹前大統領妻 懲役4年の実刑確定＝旧統一教会から金品受領など",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrb1dtX2NhRV9ZdHVRRDRyYnhSQW9JS1VtOFpSYVpVOWx3VmR3VmwyMTJINnBiYzlLVVM0MUMzZXFQZjR6R1h6LXAzVm5GOUZSQzFDWWVtbktaa29ITW4xQzBwUFdJTE9RNVZmR3JRQVVEQklsZDBUcVZ3YUxFZlHSAYQBQVVfeXFMUDNXdDVObTFySTdzREJRUkRuYm1QcXQwUXV1YzBMMW4weW1JUUZldHBWRWs2OXlOaHdHYWFraFJsTDltM3plQzAyQlNYNm1ZS2lSS2J5TXR1Q1JyMnRoZzkzeEdNUVI2d1pmb2M2V2ltLXFYSjdGNWd0LTJHWVVQLWdBMnZr?oc=5",
-   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GcmNLZ21jMm5CSzJQSjl1OW1aQjJGckk1SFIwM1pKYTQ0RlYtMWxVY3BGMmJVX0lOMjdRXzJjc1EwSXNaU3FxY3MyMHNOOE5rMWtYeHJOWUVZdw?oc=5",
+   "source": "聯合ニュース",
    "category": "world",
    "lang": "ja",
-   "date": "2026-11-19T08:05:00+00:00",
+   "date": "2026-11-19T08:05:40+00:00",
    "summary": "",
    "score": 0
   },
@@ -2837,7 +4537,7 @@
    "lang": "ja",
    "date": "2026-11-19T07:28:27+00:00",
    "summary": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーデ",
-   "score": 0
+   "score": 206
   },
   {
    "title": "AWS launches credit splitting and transfers - AWS",
@@ -3330,6 +5030,16 @@
    "score": 0
   },
   {
+   "title": "GeForce Driverでもストレージに大量のデータを書き込み続ける不具合が発生中。現状の対策はドライバのバージョンダウン",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJWjB5eENSTzhXMHVha1N6WXFtY0hjYXZ6aW0xMHgzQWl4WFl0UmNUdlFnN3c5bXJYcnl3Rk5qT3RFeVBtQktockVjVkxFbU15MkFid0VKUWM4VVREMXdpM0tZNA?oc=5",
+   "source": "4Gamer.net",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T04:35:10+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
    "title": "FBIが緊急警告「中国製AIサイバー攻撃ツール拡散、3時間で侵入完了」（ビジネス＋IT）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zRG44RENVYXI0alRVVkV5X3I3X1dmbE81UUVSdm5VZmh4UU9qOUJCcjBFTXBENEtPdGZseHpsZVVrYzRkeWxFMk51Qmt5cXdLN2swOHJhcnRXVnppdXgzbW0wQnlSZUJBMGtydDUyekRUTERzd2dOcDc5dHV0VHc?oc=5",
    "source": "Yahoo!ニュース",
@@ -3736,6 +5446,16 @@
    "category": "economy",
    "lang": "ja",
    "date": "2026-11-19T02:25:30+00:00",
+   "summary": "",
+   "score": 0
+  },
+  {
+   "title": "JR東の新キャラはB案“紫うさぎ”に 「Suica券面に登場」など、IP展開の可能性は",
+   "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+   "source": "ITmedia NEWS",
+   "category": "it",
+   "lang": "ja",
+   "date": "2026-11-19T02:24:39+00:00",
    "summary": "",
    "score": 0
   },
@@ -4388,1726 +6108,6 @@
    "date": "2026-11-18T23:52:50+00:00",
    "summary": "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=5055",
    "score": 0
-  },
-  {
-   "title": "Titan M3は前進、MTEは後退か。評価を分けたGrapheneOSの異議",
-   "link": "https://gihyo.jp/article/2026/11/android-weekly-topics-261119?utm_source=feed",
-   "source": "gihyo.jp",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:50:00+00:00",
-   "summary": "前回たどったTitanの進化史に続き、今回はTitan M3の前進の中身と、MTEをめぐる経緯、初回ロック解除の前後で割れる評価、そして11月に出た答えと残る問いを整理します。",
-   "score": 0
-  },
-  {
-   "title": "米、ベネズエラと軍事協定 ヘグセス氏「協力的な安全保障上のパートナーに」",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ncnpXUHBPM19GdEtsYXQwdTJ1Y1c5X2dDYzJrVzN6Q0U4ckNnaWIxNzBFSEN0cDBWNXFZM2o0eG5aREN4ZmZQNlZqVDE1RDBhcGdZb2trVjY5SUd0dnhFUkdPc2l0dEhSZ056Rnln?oc=5",
-   "source": "au Webポータル",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T23:50:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "トレードオフをAIと比較し、技術選定の判断を行う",
-   "link": "https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-04?utm_source=feed",
-   "source": "gihyo.jp",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:49:00+00:00",
-   "summary": "本連載は2026年9月刊行の『エンジニアのAI壁打ち実践術』から一部、抜粋・編集してお届けします。第4回目は、技術選定の選択肢をAIと整理し、トレードオフを理解したうえで、根拠を持って判断する方法について解説します。",
-   "score": 0
-  },
-  {
-   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:47:46+00:00",
-   "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
-   "score": 0
-  },
-  {
-   "title": "ゼレンスキー氏「前線陣地は堅固」、ロシアが制圧主張の東部2都市で応戦と強調（ロイター）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KdUVMd2tNX1ltblM4cWpWc2FtcE1WQmtRZTd1Yk9ybnlUYWRvMUJrRFV3UGpiRTBNWEI3WU5IN0I0bldWT1V1S3dkYnBuaEgyZlEwNVZoM2xOZkdLalF4Z1RHTjlfVGk1YTVsdHRMV205TGVZR3Vjck1UU2hPeDQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T23:46:19+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "英海軍の「核ミサイル原潜」が7か月ぶりに帰還！ 見た目「満身創痍」・・・でも57年間途切れない“国家の命運握る任務”を完遂",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS0o1bDJ3eFc0Z3RzQ2diZHRCTzBHcmZ3b2N4TGpaOFBjcXI4aDdKWkl4TXV5VUxLMnB0dnRWWnZKVVpNVnNTMGlUUE9FZWFvVl9zMFkyR2FkeEJ5emN6d3hmendEbVdpU2wwN3ZZSm9BQ1FDSExlcWZBTV9XNjdzU2V4ZWlNMzlF?oc=5",
-   "source": "carview!",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T23:42:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "前場に注目すべき3つのポイント～半導体やAI関連株への押し目を拾う動き～",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0weHFoLVVlc1Q2VGl6TURHSU5FWllpbld2bUVVMnFOeDVxeGFheDFLbS1tLUNtdzhEYzR2Z01xUlhIcnRMTUNodXpBdzlCcXlRTUhkaV93ankzWFFfN2kzQg?oc=5",
-   "source": "株探",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:40:35+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXVlBlVnBGZ0xQeFN4eENhWVJndFJobnA0VHFDY2FDajJJUHpUaU1fR0dlZGprd0RMV2VYRzZvYzhBXy1zNkI3aW5fYjNacVZaalRHWlJia3NkdFo5Y1JF?oc=5",
-   "source": "NHKニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T23:36:40+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
-   "link": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:36:23+00:00",
-   "summary": "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency.",
-   "score": 0
-  },
-  {
-   "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
-   "link": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:35:12+00:00",
-   "summary": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
-   "score": 0
-  },
-  {
-   "title": "Anthropic prices initial public offering",
-   "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T23:30:09+00:00",
-   "summary": "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 287 # C",
-   "score": 0
-  },
-  {
-   "title": "国連 北朝鮮の人権侵害非難決議を採択 22年連続も米がICC理由に棄権",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TUlZhdm5JcXhNMWVJN0Npd3B6Z2cwSXFLbEZhdEJkQk84SVJQRkZ5OGtsZXBBYzlrSEVYVnRheFZmZmwzbkQwWnYzMzBDbm5YSXZFSU9CYnNUNEFRdEdGMF9Wd1kyOG1FUkZTZGFR?oc=5",
-   "source": "au Webポータル",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T23:29:21+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-   "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:28:03+00:00",
-   "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
-   "score": 0
-  },
-  {
-   "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:18:03+00:00",
-   "summary": "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises.",
-   "score": 0
-  },
-  {
-   "title": "「OpenAI株を受け取っておけばよかった」--サム・アルトマンCEOが後悔",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XYjU2dFU3Q1B6U05WdUtYaWNzbWctMDF0ODROY3dybkZ6bUZFa1kzZVlDaFlkM0l6djE4aERzbDBLS0l0ZGdpV1Y1TTh3eGE0SDJWNmYwZ1VVbjRYMXhjM1cySUhGNGpuY0tBS0JsbDJWRDR1azh1S2JBOWxOSjQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:16:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象",
-   "link": "https://forest.watch.impress.co.jp/docs/news/2157690.html",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:15:44+00:00",
-   "summary": "",
-   "score": 420
-  },
-  {
-   "title": "GitHub - bitwarden/agent-access: Agent Access is an open protocol, CLI tool, and SDK to provide agents with credentials without exposing their entire vault",
-   "link": "https://github.com/bitwarden/agent-access",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:13:41+00:00",
-   "summary": "Agent Access allows users to provide credentials from their password manager to remote systems, without exposing their entire vault. Agent Access creates an end",
-   "score": 10
-  },
-  {
-   "title": "「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ（窓の杜）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZllXMjdJZmcwNGJpTTR4MU80MkJWWGg4dnBnd09sZ3M0UlVRNmdCQXpiTzVNckFweUtVWHNSRmlmSTFfNGMtRDY2cXVaWGlxVnNjNV96TTg2U2NfNWVSZ1E4X2xkeC1ZVVdmOHlqVm4xbXFSdVgzV0xTNDVDTXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:13:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "（朝）米国市場は高安まちまち 主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
-   "source": "マネクリ",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T23:13:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-   "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T23:04:06+00:00",
-   "summary": "No state has ever been found guilty by an international court of committing genocide.",
-   "score": 0
-  },
-  {
-   "title": "米中央軍、イラン海上封鎖を強化 洋上積み替え船も対象",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wX1l5dktWYjhzSnZORU8xYmFnSjZwbWlXb1Znd0Z2SWgwa2ZYdnNJUG9xNjhXaGdoUEJFcDdsNndoNGRYYTA1N1owTGpuOVlCTzVrOVpPbElydUkwLVdyclgzLTVUajJ4MzZsOQ?oc=5",
-   "source": "Infoseek",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T23:01:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "AIで仕事は速くなったのに、チームの成果につながらないのはなぜ？ 9500人調査が示した「落とし穴」",
-   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
-   "source": "ITmedia NEWS",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T23:00:00+00:00",
-   "summary": "生成AIを業務で使う企業は半数を超えた。個人の仕事は確かに速くなった。だが、そのスピードがチームや組織の成果に結びついているかというと、話は別だ。9500人超を対象にした海外調査からは、各自のチャット履歴に思考の過程が閉じ込められ、レビューの現場で時間を食いつぶしている姿が浮かび上がる。",
-   "score": 0
-  },
-  {
-   "title": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
-   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
-   "source": "ITmedia NEWS",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:58:41+00:00",
-   "summary": "Googleは、推論の深さと効率のバランスを重視した新AIモデル「Gemini 4 Neon」を発表し、同日より順次提供を開始した。上位の「Carbon」と軽量な「Hydrogen」の中間に位置付けられ、複雑なコーディングや企業業務に適する。APIやGoogle AI Pro／UltraプランのGeminiアプリから利",
-   "score": 4
-  },
-  {
-   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
-   "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T22:56:19+00:00",
-   "summary": "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising.",
-   "score": 0
-  },
-  {
-   "title": "PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応",
-   "link": "https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:49:55+00:00",
-   "summary": "PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応PHP schedules a critical security release for 19 November, including CVE-2026-115560 この記事のポイント【なぜ重要か",
-   "score": 19
-  },
-  {
-   "title": "なぜ「WSUS」を捨てない？ 非推奨でも35％が使い続けるワケ（TechTargetジャパン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02STZiazh6NFpjN1I3YWgyb19ZRFFLTTZYSHRTd00wMzhRX0lHWFJMUzJLbXJ3OUkwbVpIbEtiajM3aFNzRVRvWmlKNXZqVVd2YUdVZ3pfRGFCdWNwWU4tSnZpWUNXbGpYcjd4QTlBRWVHRi1sU3NlRVlyWGUxX1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:45:17+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog",
-   "link": "https://piyolog.hatenadiary.jp/entry/2026/11/19/065715",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:35:08+00:00",
-   "summary": "2026年11月19日、国家サイバー統括室はWebサーバーnginxにリモートから未認証で任意のコード実行等が可能となる脆弱性が公表されたとして、対象環境の運用管理者に速やかなアップデートの適用等を求める注意喚起を行いました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? nginx.orgとF5は1",
-   "score": 68
-  },
-  {
-   "title": "Catherine visits Mumbai maternity hospital on the last day of royal trip",
-   "link": "https://www.bbc.co.uk/news/videos/c9gkljpgdn1lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T22:32:47+00:00",
-   "summary": "The Prince and Princess of Wales ended their three-day trip to India on Wednesday, the couple's first international tour since 2022.",
-   "score": 0
-  },
-  {
-   "title": "部下の心を開くリーダーは何をしているのか（日本の人事部）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4ybm5WcGgyVUFCT1NNQS1RNEUtSm5LckxZTlQ3RHQzNXFzby1jRUM2SUI0anV4MGpudElkR01PUmlWbmhTWUhHTUdQTURueXdvcTJqUU43SGVRcjdITUJyLU5YTW0xQURjWVVmNWJCbEhKeUZ3Y214c3kzQUpwUWc?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T22:30:02+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "金・銀が14カ月ぶり安値に急落、米12月利上げ観測とドル高が直撃",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCNDg0YnJNYjhkTEFKMDVSSVhtQ3lfZ3NZaXVPWXN1MzllME05Y3pPR1ZSRThVME44Y29lTklUNzh6VFh1Rmp6TDFUM0NIYllHSEtlV2Z3UUtWdw?oc=5",
-   "source": "Forbes JAPAN",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T22:30:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "LLM assisted reverse engineering",
-   "link": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T22:29:13+00:00",
-   "summary": "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 257 # Comm",
-   "score": 0
-  },
-  {
-   "title": "エヌビディアとアンソロピックが、ビットコインに新たな問題を引き起こす可能性がある（海外）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yR0hHWHAtQU9TMVh0NFlGTmY0dUJxS0U5U2dPVlRnellkYnlNVUtuMk5YWnRlUFY4QTg3S3FiSnM5cnJsMUpWcUY2U0pUakxWLXI0T3V4d2Y3eFlwVmwyS05XcU82cVl6VFJ1al81S1ZLV3JPdnFjLXFGckE1ZlE?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T22:22:35+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "トランプ氏 露大統領と個別会談へ",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oQzcwWEdiejdzWk9iWUc2RXNuNU5PT3hzTWItZTVRTFZPRDlhcC1vbWc3clpqZndZLVVhYllXT2JzaGtjV3Z5Y0hxQzJvRDdj?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T22:21:47+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」",
-   "link": "https://japan.cnet.com/article/35255099/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:20:32+00:00",
-   "summary": "ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。",
-   "score": 124
-  },
-  {
-   "title": "中国、ステルス無人攻撃機「GJ-11」の鮮明な映像を初公開…米露との違いは？（海外）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93WXV2SlkzemlNTXRuWE1FWlhlX2FUSng5U0lzRWV2RHFxN1M0NE1hVzlLdklUU1lpMjNaRVI0TGpFV2htUzkwV1lTNktuTEpNamtoSEpmWWlrN1JGUVZSWENHRmdNME95MlA3RUdtcl9FUmdvYm5RNG9sUmhmYzA?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:10:02+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "元陸自ホワイトハッカーが解説》ハッキングの原因となるコンピュータの仕様にまつわる「3つの原罪」 短期的な対策として「日本版グレートファイアウォール」を提案（マネーポストWEB",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGZDRGpsVVh1ZDVaTG1Ob0pKZ2R5eHZ2aUlyY00ycnAxRDN3TkNIQjgybUtpTUZwczF4b28tdHpsZDNzQzRmcUQ1WlhJbXN5YmdvZEpDS05XR3VKS1pRQWFiYU5Rd1l4V1REUlFHOW1jOUpIS0xXNGxsUWp4cVRlRUJyX2h3aWk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:02:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "「新人を育てるよりAIを使ったほうがマシ」企業の37％が下した残酷な判断…高学歴でも仕事がない、経験を積めない、出世の階段すら消える「若手切り捨て社会」の恐怖（集英社オンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3LURqMHNsbVdQREg4S3NwbDdIcW5UWmozNDZGcGJlZjdMOXkzTjhNNGU3b0VpU1UzWWRUaGFvYkI1WE9nTjROUU83Sm16TWs4ck9ubjhvejhUcDRRSzVUTjNsb3BVazRUR0NfVldYTm4wZFR0WVJkMENoQ2lScEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:00:39+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "孫正義氏が「墓石に刻んでほしい」と明かした言葉 流した涙、もう「時間との勝負」やり残したことは？",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkbTNKTGVDREdoV3dFTTlXVkotZXdiMl9PN1NPUTE3bUlqVzdYaTRJSkFXbGlfemlEZWlLM2pldnVuVlhUdkNqRlJrcUctRTdiU1BoQlFlbl9lV2YyYXhJV1B5UzFiV1lHUE5XTlNfaS10UQ?oc=5",
-   "source": "ITmedia",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T22:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Microsoft障害、ユーザー補償どうなる？ 「月額料金の最大100％分をクレジット付与」明記した“契約“の中身",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qbWp1WU81YlJBc09FNDFOd3phY2thNk1WQXdiSGFsX2pLQ0J5NFRBa1JIc3hrRUhyNzhzTlYxMFl2aVVMckdGYUV1b0NxWVFVZHAzcXFHSmJkUzJMUEhLUTlqWkgtZFBEUGxKMjBhY0w2QQ?oc=5",
-   "source": "ITmedia",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T22:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "米、北朝鮮人権決議を棄権 ICC巡り、国連で採択（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuSjlZNHlVSzdqZXhTbmxuYllXS0JkYTBHZUdmdzRSWnBsOTFVd0xjcUVUUlFNbnNrNG1Oam1oMHhNMWs4ZUVFZnp3SzdCd2xHQnl4OC1OYjV6dmZSQWRLd2Utd3BtYk0yMm9jekxPY0ZHQ3JYcEM0Z29ITW5DdHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T21:56:25+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
-   "link": "https://www.aljazeera.com/news/2026/11/18/iraq-sentences-six-french-nationals-to-life-in-prison-for-joining-isil?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:53:17+00:00",
-   "summary": "Trials began in September for 47 French citizens who were transferred from Syria last year.",
-   "score": 0
-  },
-  {
-   "title": "米国防長官がベネズエラ訪問 マドゥロ氏の拘束後初、軍事協力で合意",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yTTdmZi1lcHFoM2c3VlpKQjlXbkZOa0tPVjR0SFRkUVFWM2pwOGJfdWhaVHFSN3p3T0pmMXFBM3V4VjVnZjFIZ0N1UUp3R2ZxajA4aUlKb1lIcWxsWk5zVFhFakRkNTBlbXdNVw?oc=5",
-   "source": "日本経済新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T21:52:25+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた",
-   "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T21:50:43+00:00",
-   "summary": "",
-   "score": 149
-  },
-  {
-   "title": "「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T21:46:15+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "iCloudが1週間で2度ダウン、11月18日未明はApp StoreやAppleCareも停止 止まった時の確認先",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnAxY1VaczZZOXVqZGczR2tDWFNYRmF0RGYtMHRONFdXa204WnlQU1BtdkZZendyRFcxdmxac3JmeVk5MDRaSDVfUUFudTdsWW5ZcU45NWVGMUNQMC15V1hFTDMxLWwzbld6MlZYQWhxSHlLTEVuSmNjTndxTWk0aklOVHlwN0lac1E?oc=5",
-   "source": "セレクトラ",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T21:45:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "日産が選んだイギリスの自動運転AI「Wayve」に乗ってみた。東京の細い路地も器用にすり抜ける",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaUZ5aEZTMlZmdTZ2WGNFT05yWktvU0VOQ1pCeEt0N3N2aldkSnh3OE1DTTVFSFNOd2pVeTNtcF9Ea1FjS2V4bS1QZGpjVkdtUko1M3lZRGc0VkFnT2l1WmVwRERFcW4xYUY4eExMdXFFdHpidHNSbWZoTlgtUk5ZQ1dGbm5zaENSdklPUzhWa2FxSnM?oc=5",
-   "source": "Business Insider Japan",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T21:45:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO",
-   "link": "https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T21:41:35+00:00",
-   "summary": "NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2",
-   "score": 92
-  },
-  {
-   "title": "ドコモ「My docomo」iPhone版アプリが緊急メンテナンス 利用できず",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42TnhnUGNMQTlfRmx2WmdWOXRtVEg2bTdDVjZoYW1qaUpiakNaWjlQeFctTGFzV1FXdkFzN1F4cVFMYk1mWFNfUzl0U1Q4VXhmbHJkZmVxOTJKeFdUQ01wWTZwZktlblBsdGtERm82STJTUmZDRDdwMlpReWlmZDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T21:40:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Gemini 4 Neon",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T21:34:07+00:00",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ Comments URL: https://news.ycombinator.com/item?",
-   "score": 17
-  },
-  {
-   "title": "「おたくは遠慮してほしい、が一番…」“ドラフト異変”織田翔希「指名あいさつ不参加」で思い出す…“門前払い”に元スカウトが語った胸の内（Number Web）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41MDZCR3RsM29Ra3FYcUpQeEQ4cDd6SmhNeWZPdTZpSWlTZFhINjJFa3dMVkp2MkhyaXA3cUd3Ym1vVzktVkJZOTJaVV9NWktrMkt6RkY0QzE3b2Jua29VWHJIb0RSNEtDRmpyU01MZE9mTkZ1Y2ZOMHh2NTY4dUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T21:31:16+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-   "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:28:08+00:00",
-   "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
-   "score": 0
-  },
-  {
-   "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
-   "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:24:19+00:00",
-   "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
-   "score": 0
-  },
-  {
-   "title": "ガザで作戦、住民退避 イスラエル軍、戦車投入",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HUHVJVzB4R3VWMlJHYjA5NDEzMjVXTlFVTFBRckxEajJXOHVMQzlwb1B6Y1l5Wi10Q2xMRUR3UzhRUWdQQlhvQWgzTVl5X0E1eU1Ua0EyLVNGWkx4M1RzTWRpUFhweUNmWXNWRC1PQdIBdEFVX3lxTE1vTHN1MEZPbkFQUGlGckNmWXF5anRYdTJMTXpFb1lOLUZWVVZMSFlTWTI3UmhhanVYcWhuSUFWMk41OVdpcHRRTGhtYjhIWENzMDFRbWhJdDZySDZybVVkTkp3MS1qUkdsb3A0MHlfQVlILWpB?oc=5",
-   "source": "Infoseek",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T21:21:35+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "ロシア旅客機に爆破予告 COP31開催のトルコ南部",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWk85bmw1ZFNHMmhLMEJxQWJlVGV3ck9jWVFUX1NwOWxScUpfNFdkVjNJMmF5Nmd1dnNOeTVESjcteW9CNTJ4WDB0WkVuZEhtZDY2TkZNVmJVaUtWTkhvUEN6WkNtRTM5N3ZfWllUbjBsRGpYUzEwaGFlWTlyRmhHcjRfSUZ5UzdXVEHSAY8BQVVfeXFMUEFvYkhjc2RqOHI3S1FRc25pWFZOVjA4N1R3akhSTDhqXzVxS1lqSW9lVG04aTBhazZBNzl0QzJBOTQyMXY5Y2pPNDFyZXBnWG9HOWY0T0tET3c5MXpyZUZ1a2dTZmxXem02bEFSSHhia0phaVlmbV9NbzBMV0VEZEF5bWNqLWhDQ2dDQTNpUkk?oc=5",
-   "source": "ｄメニューニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T21:19:35+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "auの「INFOBAR ZERO」12月25日発売、ネットもSNSもない通話・SMS専用ケータイが8年ぶりに復活 ｜ auの2台目なら月額550円で使える",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QR2FYTllNRVFndGo5T3FCZHVaTm5nank1UC1rUjlRb1lzekxZX25tNm82V3ZBSWdBamphcGhpaUw2NVo4MDlDNkd6VmtSSFIwc2ZwQVlmZjJGNU9IWUdJeDNHQ0FUQXFGMEFCYTBuRkFoaUFJNWZJdkZn?oc=5",
-   "source": "セレクトラ",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T21:15:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:13:06+00:00",
-   "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "score": 0
-  },
-  {
-   "title": "Floodwaters submerge cars and parking lots in Florida town",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:08:04+00:00",
-   "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
-   "score": 0
-  },
-  {
-   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-   "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T21:01:05+00:00",
-   "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
-   "score": 0
-  },
-  {
-   "title": "「麻薬みたいにやめられない」ガソリン・電気・ガス補助に約17兆円「1日100億円超の税金」“激変緩和”も高市総理は“出口”を描けるか（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mUnhZeFFTX3JoQi1qU3F4RXdkbENVbE81UlJIVFB2ZXl3Ylh4R3FxZW91SlJvRnJneFN0aWs1Qk9BYVMyeUV2ZFp4VTVIZmxBTHoyMHlFWlA0dTluNjh1WE92ZmhSb2M3V1I0NjBkazJ6QW1TZGotam0taVhFbzg?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T21:00:36+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "国営テレビ元エースが“命がけ”で告発》公式支持率68％の裏で「不安」を訴える国民が57％…余裕をなくしつつある“ウラジーミル・プーチンのリアル”（文春オンライン",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZVDdESldlLU5LX0l2R2E0WWNkWXNwTmhUUUUtM3YwdFJGX0JTSlBHOFY2cl9zQlQ3VDlvQ3ZneU1wZVF3OTlaUFBTeFh4OWNaLWowWDBKVzBNOTZXcldRaXotQ2RUSHlZUEtsd05wa0ZRZ05rM1pnbkNBX1VzX2M?oc=5",
-   "source": "ｄメニューニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T21:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "年賀状を続けるのは人生のムダと考える人は大損している…スタンフォード大教授が証明｢年イチつながり｣の効用 (2ページ目)",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iNTBsbzUyVDhsZFB5UkRCUGNHbTBzM2RGdUhXNU9NbmFZNkJUM2h3ektYUThzRlRqR3ZlTVZ3TUo3VmJlMXhCcjJ6YkV4OEZLejdqV1RoSTc?oc=5",
-   "source": "PRESIDENT Online（プレジデントオンライン）",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T21:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "プロパンガス代、同じ使用量でも青森市は大阪市の約1.4倍。住む地域の平均は月いくら？【小売物価統計調査・2025年平均】",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yRGNqOEE5VHpZMS1OWnpKRXp2dTFTZjE3Rl9LZ3ZuRTBRdy1PUFFwMm16UTdmVDBvU2lyRnVUSDBwQ1FJMXIyb1ZHblBiNkV0LUh4RTdJX21qMi1GUEpRZkdUcFZKVFotMnRHWkZFWUJaUFRIWTFuYTNPbWtnOG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T20:55:33+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "糸引きの具合、香りを採点 179点から「日本一の納豆」決まる [写真特集2/3]",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjBITHJPbkJvT0hBZGItcHhmdVhUT0FsUlprLWw5SF9lM1ZsZ2ZFUDloMU1JQTkxeHVCN0taaG1rOFJFVmFIVmFiMG42LTdOczlZTk5yWDRyRzZOaEJKekQyRTQwOWFMSjdwZ1hYZjJ1eTgxMEd1R1NYbnZWTjBrVHdLV1J4RXM?oc=5",
-   "source": "毎日新聞",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T20:44:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-   "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:38:06+00:00",
-   "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
-   "score": 0
-  },
-  {
-   "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-   "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:37:40+00:00",
-   "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
-   "score": 0
-  },
-  {
-   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:24:50+00:00",
-   "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
-   "score": 0
-  },
-  {
-   "title": "Muslims projected to overtake Christians as world’s largest religious group",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:21:34+00:00",
-   "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
-   "score": 0
-  },
-  {
-   "title": "黒人初の米下院議長が誕生へ 2027年1月、民主党ジェフリーズ氏",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBZEQ2RW1VbHlzbVFLb2VYd19TNHExc2RFSEo0bzl4WjA0aEFhdzR5OUJHa2dWMWJpVm16Nkt1SXVsVDV2YmtKbDhBUTRjLU4yVFZJTUMzQ0lqbmkwYXdfQ1ZuT1NLQ29JcUFKQw?oc=5",
-   "source": "日本経済新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T20:18:31+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "US loses measles-free status after 26 years in historic setback",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:18:25+00:00",
-   "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
-   "score": 0
-  },
-  {
-   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:14:57+00:00",
-   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "score": 0
-  },
-  {
-   "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-   "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:14:04+00:00",
-   "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
-   "score": 0
-  },
-  {
-   "title": "Trump and Putin to meet one-on-one in China Thursday",
-   "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:12:20+00:00",
-   "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-   "score": 0
-  },
-  {
-   "title": "William and Kate meet PM Modi as they wrap up India tour",
-   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T20:07:08+00:00",
-   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
-   "score": 0
-  },
-  {
-   "title": "インドネシアが経済的危機を迎えている理由…株価も下落し、為替も最弱、世界４位の人口と多大な資源を持つ国に起きていること（Wedge（ウェッジ））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TalRKTERwSW5OZEhWdE10TXFkRmsyZWVMeEwxakZYS2xFcWRhejQ0UHh1UldPMy1Lelo1ZXY1S1VZVXYxMTRXUi0weFRpUVRWbUhKdDE3bmJ3VkRuWjVVbVdWRElWZkllbEtfWWZweWlYb21YWXRlRWVsTlhoTEU?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:38+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "韓国できょう大学入試 「AI不正」の防止対策徹底（聯合ニュース）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIZnExV3lVY1NqY1VhNlBhX1pBbWRrZW5mR0hUWUl4NERqTWoyTEI5VEtxYmJHOHNZbXg4R1g4dWdodWtRdDdOazl1QVA2Z2RocmJXS2QxUkRaenNNLWxxZF8wTlhMbmI4bDNSdC1Ob01ZTFJ4LUkxUUhPS1ROdWM?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:04+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "アプリ位置情報、外部への送信で利用者に説明足りず 国の指針形骸化",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfRDJ5YVREYTM1aGhmdnZtR0laendjMHUxa0prT0xxSEVyd3ZCRHFkcXJQZnA1ZnlMWlFSeXVDaHJWbF9SeFdBWTJFMnRBREpScXVEUDNPLVE0bzJwRi0zTHJJTnp1amFzTEhyZw?oc=5",
-   "source": "日本経済新聞",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "米・ロシア間の課題だった核軍縮、トランプ氏は中国の台頭で「２正面」対応に…急速な核戦力増強で危機感",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12V3FleVJtWl9OSnZkSzZqcXBLaHBVS09VNE9UMDVNSkkwNEZuSWlWcEtqNDRlX1dQZi1BVUxLZ096bDZjWVNDZ3ZUek45dVNhcW9LU2dPbjl0RS1aeUZRMEtB?oc=5",
-   "source": "読売新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "「ＡＩ業界の中央銀行」エヌビディア、フアン氏退場で巨額投資のあり方が見直される可能性",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qcVVTODVzWmFNTURJY3F0SDhrQjl3Ml9uc09VNnZja2NnV2s0eEMtQW02Yy1lYmpvaDI3b1NlOFhHVVdaaDRSY1h2ZVpDWWxHTXh1eXo1MzNKVGdpb3lrNk1TcnQ?oc=5",
-   "source": "読売新聞",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "米上院で民主５６議席確定、激戦７州全て制す…連邦下院選議席はオバマ氏が大統領選挙大勝した２００８年に並ぶ",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mLU1uLUc0ZVFQY0NCLTE4bzQ3Z2dMZXp2RnAxSnJTenVMWW56cmduU0dTTnpsaEtvYjJ5Nl9qdDZBMTFhbmJSdmVKUUJxUTE5U3E4eWRrMGRRMUlvLV9DbU13?oc=5",
-   "source": "読売新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T20:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "実質的無職になった｜Y.Hirano",
-   "link": "https://note.com/y_hirano/n/nc986ab18b90e",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T19:58:08+00:00",
-   "summary": "2026年10月末で仕事が減ってしまったので、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきました...",
-   "score": 371
-  },
-  {
-   "title": "Heated debate escalates into on-air fight on Armenian TV",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T19:56:17+00:00",
-   "summary": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
-   "score": 0
-  },
-  {
-   "title": "北陸新幹線延伸区間の並行在来線、経営分離どうする？ JR西日本の社長が言及した内容とは",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiV3doM1JyV2F5MUF2bURYdTcxUnIxN1M5cmNnTkFSR2FhYjEzNXR1ei1LaktqY3llVXIwMDVkekNuODNCQTRWVjZvc2F4U29Wa25SZUt6MTA?oc=5",
-   "source": "京都新聞デジタル",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:55:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "DaisyRose-27B",
-   "link": "https://www.radixark.com/blog/daisyrose-27b",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T19:39:16+00:00",
-   "summary": "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 232 # Comments: 85",
-   "score": 0
-  },
-  {
-   "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T19:31:31+00:00",
-   "summary": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
-   "score": 0
-  },
-  {
-   "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T19:30:51+00:00",
-   "summary": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
-   "score": 0
-  },
-  {
-   "title": "アンソロピック、史上最大級IPOへ最終局面-テック株安でも需要旺盛（TBS CROSS DIG with Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FVHd5WGhjSVo2dVlob2dodVA2S19jX1FUTkV1dFpQdGdvNWZtVnBXMDR5ejhKSFpqSnlWNTZiSFN3dURTQXpPWXhYcG8tMVQ1ZTRyVGxPWFdodkN5dTYtMlhtRXREZnVvNktNdjhzNkxFdlJyQ2Y4Z2F6cGZQYVk?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:28:22+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T19:27:42+00:00",
-   "summary": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
-   "score": 0
-  },
-  {
-   "title": "【FOMC】「数名の当局者は据え置きを支持したが、判断は「際どい」ものだったと指摘」｜FX・為替ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RXy1GRWpPdEoyOVdnUjFiV0lZMFIydXJmcTJORW5XSndNdDlCRGQtM2NvZUktb0hnYlBjUlhJTWxNbFM3NWNkeDFXWEVibnVvdWc?oc=5",
-   "source": "ザイFX！",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:18:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "【FOMC】「一部の当局者は、10月に0.25%ポイントの利上げを支持した」｜FX・為替ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtTGhWUHlaMmdpdjB6c1RFYWlwTnktNXVhN0puZzhKMjhFSW1PR3gxbS1VM0ZTVk5fRjRxSEhIM1FzQ0hJMzhQV094UF92SFFaMWc?oc=5",
-   "source": "ザイFX！",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:14:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Jリーグのチケット販売サイト 利用者情報238万件漏えい",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQVjVyRkRFUHZmVUxWVF9uTEJPV1hOVXh5RDhCZWpfRzVteV9rY1pfcl9VdTBmMGluZ19RVGZnSnNaTlE0TWFQeVlURmFEZDNwN2pSNzNhQXp4eE5XWDZN?oc=5",
-   "source": "NHKニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:06:20+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "銅相場5％超急落、AI関連トレード崩れる-供給逼迫でも金属市場に売り（TBS CROSS DIG with Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxbmZoRlpiRWVmMVZTY25LNWR1MHJmS0N4aVF2TWFycTRXZm8zNTBnWTE2QTg3R0pKajdQZnBNejFNVjJXckFfdHVwWjd1d2VEZnYtMUN4ZFFTZ01CVnhDbVlWc2E2anB2UDNJQ0pxX011akpmbUJfeGtXWXZ4NlE?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T19:02:14+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ＝関係筋 | ロイター",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5",
-   "source": "Reuters",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T19:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Genie 4 is now available",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T18:49:51+00:00",
-   "summary": "Back Innovation & AI See all in Innovation & AI Models & Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products D",
-   "score": 35
-  },
-  {
-   "title": "トランプ氏、次はキューバ陥落に照準か 地上侵攻なら多大な犠牲",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ieV8yZHdRdVNkV2NURzV3VFZqVDNqR3ZpVHc3TENlclhoMWtKYXBNOVByU3FTS1FseGN3U081LS1VWWl4c09PQTBCWGRmMkhlUmlmcjVDdVJLYlhEMUtsZFBHeXUzLWlTNV9oZA?oc=5",
-   "source": "日本経済新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T18:45:50+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "ウェイモ、米高速道路で自動運転タクシー運行停止 安全面で州が制限",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ISTRNVjFRYzlTUXhrd3FOeFpxdUl0dG9rRy05M3g3Z1M2WW1uYktIVGRjTUxTYXlGaWh3YndVSWZCaktybXJtSHlfZk5SQ2Q5bW5ZU2NUSFROQnFRV2ZUSUNEeE5nTEcxMzNNWg?oc=5",
-   "source": "日本経済新聞",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T18:40:03+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "カナダ首相、米との貿易交渉「意味ない合意せず」 トランプ氏と会談",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1aDRCeXdSMk1FVmpkMF9jZ3RzbUlQcURERWZUSTRKWHFNb19pQUZWWVFqMXlTUVJUVzE4NmtZMnRNZ3NCZmJOWl8xSmx1ckJRMTRwMXI3OGtudXhVSGtyR1VpeDFxRDRrRC1wMA?oc=5",
-   "source": "日本経済新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T18:28:20+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-   "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T18:22:26+00:00",
-   "summary": "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him.",
-   "score": 0
-  },
-  {
-   "title": "Israeli forces launch new military operation in central Gaza",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T18:12:42+00:00",
-   "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-   "score": 0
-  },
-  {
-   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-   "link": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T18:09:57+00:00",
-   "summary": "Trump told Philippine President Marcos he knew his parents 'very well'.",
-   "score": 0
-  },
-  {
-   "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:50:00+00:00",
-   "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-   "score": 0
-  },
-  {
-   "title": "Advancing chip design with OpenAI models",
-   "link": "https://openai.com/index/advancing-chip-design-with-our-models/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T17:45:47+00:00",
-   "summary": "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 168 # Comments:",
-   "score": 0
-  },
-  {
-   "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-   "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:45:09+00:00",
-   "summary": "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue.",
-   "score": 0
-  },
-  {
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:34:25+00:00",
-   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-   "score": 0
-  },
-  {
-   "title": "New video shows explosions moments before part of Crimea Bridge collapses",
-   "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:09:43+00:00",
-   "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
-   "score": 0
-  },
-  {
-   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-   "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:00:40+00:00",
-   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-   "score": 0
-  },
-  {
-   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T17:00:04+00:00",
-   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-   "score": 0
-  },
-  {
-   "title": "キオクシア株急落、投資した高校生も「忍耐力」学ぶ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRUhfVlZnTEVhTzFRUjkwMnAzSnZ0T0s3M2oyRmhBVVplYUhXSkc5WEhYRVNab3FuVXRhams0cEN5R3kxaU9pazBwM0dQcC1YMExaV3N5VzZiYmlaTlhOV2ZQUDF0VGZ5VXo5SQ?oc=5",
-   "source": "日本経済新聞",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T17:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "H3ロケット、火星圏の試料採取へ 「日本の探査機」問われる真価",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CbXBqc2RjampDWkRFNEprVUlxTmtHa1h3NFduMkNnSXhOSEhMQ2xVY1ExaUNYZmcyLVJPQW83cU1NUndaekFnQnZyakw4Y3JCRFhybG9Nc0pER0V4aUF2N0tWQkZoTDNydXprNA?oc=5",
-   "source": "日本経済新聞",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T17:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-   "link": "https://news.ycombinator.com/item?id=50548660",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T16:53:42+00:00",
-   "summary": "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/i",
-   "score": 0
-  },
-  {
-   "title": "EUがウクライナに7兆円余の追加融資へ「和平協議で優位に」",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zel90OGp6TTJ6dkoyM2cyTTVyelVld3lrSEN0SVZvV3J6TzI1SGZjR2hxU0dKOFotWWpqSlN2bmRPT0tRWWpVZVB0V1MyaVJ4ZWlEcEo1MXFnYTNvaGdF?oc=5",
-   "source": "NHKニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T16:51:55+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-   "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:47:26+00:00",
-   "summary": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
-   "score": 0
-  },
-  {
-   "title": "World Bank official says Lebanon reconstruction making slow progress",
-   "link": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:44:59+00:00",
-   "summary": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
-   "score": 0
-  },
-  {
-   "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:40:03+00:00",
-   "summary": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
-   "score": 0
-  },
-  {
-   "title": "メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた",
-   "link": "https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T16:38:39+00:00",
-   "summary": "前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にして",
-   "score": 54
-  },
-  {
-   "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-   "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:33:16+00:00",
-   "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-   "score": 0
-  },
-  {
-   "title": "APEC首脳会議、9年ぶりにプーチン氏が集合写真に-高市氏は後列（TBS CROSS DIG with Bloomberg）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xSFZhM3B2Ql9UZ2oybTFWaFlhdGRxeWt6RGpINk9oZm5rNVpfMmdTMmFjNGZoaVc0UWNObGxoYWtScFdob2ZNYzJlQTZTRkdjWk03aEhPeXpWSUhGdENKZU9MVHBfOThEUnNZeHFoMXgzckJLTnlvV3dHejRQS3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T16:32:12+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:28:54+00:00",
-   "summary": "Israel’s army beat a journalist covering a settler attack near Jericho.",
-   "score": 0
-  },
-  {
-   "title": "【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ",
-   "link": "https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T16:24:20+00:00",
-   "summary": "【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」",
-   "score": 34
-  },
-  {
-   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-   "link": "https://rshekhar.com/voyager/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T16:18:51+00:00",
-   "summary": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres",
-   "score": 0
-  },
-  {
-   "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:16:48+00:00",
-   "summary": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
-   "score": 0
-  },
-  {
-   "title": "Seven new models at scalable price-performance",
-   "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T16:08:24+00:00",
-   "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 566 # Comments: 357",
-   "score": 0
-  },
-  {
-   "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
-   "link": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T16:06:21+00:00",
-   "summary": "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 154 # Comments: 108",
-   "score": 0
-  },
-  {
-   "title": "Five EU nations to deport migrants to Rwanda",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/five-eu-nations-to-deport-migrants-to-rwanda?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:05:37+00:00",
-   "summary": "Five European countries are looking to Rwanda to host rejected asylum seekers.",
-   "score": 0
-  },
-  {
-   "title": "Fiona the hippo undergoing care after swallowing a hat at Cincinnati Zoo",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d93z0e9gjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T16:05:26+00:00",
-   "summary": "Zookeepers say she cannot have surgery but are providing fluids and supportive care to help her pass the hat.",
-   "score": 0
-  },
-  {
-   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-   "link": "https://exitpath-ruddy.vercel.app/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T16:04:43+00:00",
-   "summary": "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 174 # Comments: 53",
-   "score": 0
-  },
-  {
-   "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
-   "link": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
-   "source": "Publickey",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T16:00:37+00:00",
-   "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...",
-   "score": 57
-  },
-  {
-   "title": "中国の原人、従来説より10万年以上長く熱帯雨林で生息か 国際研究",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBURHFhbV82dTlOdE5aX3BIbVJrbWt4NmtxQ0REaHZmc0NIaXJQc29NSDlJM2pGX05oc0EwM3ZqQ0ZnU0hvRWhwekd0UDVVbWl1eWJ2U0tIZmxPRXR5VmFXX1lYekZQeXN4NDU2Nw?oc=5",
-   "source": "日本経済新聞",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T16:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース",
-   "link": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
-   "source": "Publickey",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T15:58:32+00:00",
-   "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...",
-   "score": 0
-  },
-  {
-   "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
-   "link": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
-   "source": "Publickey",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T15:55:49+00:00",
-   "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...",
-   "score": 0
-  },
-  {
-   "title": "世界的サーバーソフトに脆弱性 「エンジンエックス」攻撃の恐れ（共同通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aWlNNMDZXdEJKMlVoLThxa1ViMnNhcnpmcnhrdlJwRmJhMGRUNV9vczFWZ2pRSW1PdDBRYjZCblk3UDZpVFcwcWNBTElfTzJ5ZGdWeEo2Q0lpUFkyQm9KZ2RObzBMcG5rQTFURmgwNHk1V0I2X0w1ZG1QZzRQY2c?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T15:53:53+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "link": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T15:49:34+00:00",
-   "summary": "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 381 # Com",
-   "score": 0
-  },
-  {
-   "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-   "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T15:39:57+00:00",
-   "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-   "score": 0
-  },
-  {
-   "title": "Inside Deutsche Bank",
-   "link": "https://www.inside-db.com/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T15:38:33+00:00",
-   "summary": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 730 # Comments: 242",
-   "score": 0
-  },
-  {
-   "title": "ボージョレ・ヌーボー解禁、フランスの記録的熱波でブドウ収穫１か月前倒し…愛好家「濃厚な味でおいしい」",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfSkhhMUpTb2FSUGQwd2QtVk93SXpJN3N1VUVWbjhBX01vSnZyZWpDYUF0Z1hwLWwzbHhra0w4WldTUmVMbUlSVGdDVkNsc0QzSklLUV9qbjRLTUN4NlhrVnhWX1o?oc=5",
-   "source": "読売新聞",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T15:38:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
-   "link": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T15:35:44+00:00",
-   "summary": "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 12",
-   "score": 0
-  },
-  {
-   "title": "NGINX2Root by Xint — From nginx visitor to root of the server host",
-   "link": "https://nginx2root.com/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T15:34:40+00:00",
-   "summary": "Found by NGINX2Root From nginx visitor to root of the server hostnginx 방문자에서 서버 호스트의 root까지nginxへの未認証アクセスから、サーバーホストのroot権限へ CVE-2026-123007CVE-2026-123634CVE-20",
-   "score": 71
-  },
-  {
-   "title": "XユーザーのSatoki@Kn0wl3dg3さん: 「弊社は世界中で使われているNGINXの最新版に、ログインなしでサーバーを乗っ取れる深刻な脆弱性「NGINX2Shell」を発見しました。@OpenAI との協力のもと、発見から報告まで一緒に進めていました。ちなみに、とあるバグバウンティイベントではこれが$300,000らしい💸 #NGINX2Shell」 / X",
-   "link": "https://x.com/satoki00/status/2123071303657910632",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T15:28:20+00:00",
-   "summary": "",
-   "score": 13
-  },
-  {
-   "title": "Unauthenticated remote code execution in Nginx",
-   "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T15:27:17+00:00",
-   "summary": "https://www.cve.org/CVERecord?id=CVE-2026-123633https://www.cve.org/CVERecord?id=CVE-2026-123007 Comments URL: https://news.ycombinator.com/item?id=50547374 Poi",
-   "score": 22
-  },
-  {
-   "title": "米民主党、ラトニック商務長官の利益相反を調査―エヌビディア巡るスパイ疑惑で",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aOEJiRDh3QkRPTHFoRUZrZ3BodHNocVNrNVd4R0pIUldsVVdGRWpXM2dlLXF2THR3eEVFOTR2em9FRTZ6OGhPbTYyY0lfN3diYm5BWHBhdnYyUnlWWmNCWERFa9IBaEFVX3lxTE14NjNRTjRVNlJBYVpzV0hmTnZieE1hVF9EOWRRcEUzSE8tcHVHUUxoUUU0MkZ6M2xsOWlEaDVidl8wMVlvSEFJSUl0Y0VaRjBacWp4MVFFLVVFLW15czFOaDhjRWVxTHJr?oc=5",
-   "source": "財経新聞",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T15:21:14+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "「ガチャを回すみたいに強盗する」裁判傍聴の民が実際に見てきたトクリュウの実態がしんどすぎる「普通に仕事しろ」",
-   "link": "https://togetter.com/li/2772114",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T15:01:11+00:00",
-   "summary": "ななぷりん極 @7rpin 裁判傍聴の民なんですが、本物のトクリュウをたくさん眺めてきたのでつぶやきますね まず、ガチャまわすみたいに強盗するから、リスト先てきとうに襲撃してる。だから１億あるとか１千万とかあんまり関係ない 2026-11-18 18:22:42 ななぷりん極 @7rpin 襲撃には、まるで冒険者が洞窟",
-   "score": 247
-  },
-  {
-   "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-   "link": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T14:56:04+00:00",
-   "summary": "Article URL: https://www.youtube.com/watch?v=-TLCGUpoD6c Comments URL: https://news.ycombinator.com/item?id=50547048 Points: 260 # Comments: 104",
-   "score": 0
-  },
-  {
-   "title": "【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較",
-   "link": "https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T14:55:06+00:00",
-   "summary": "",
-   "score": 5
-  },
-  {
-   "title": "【ＮＹ為替オープニング】FOMC議事録や20年債入札に注目、ウォラーFRB理事が50BPの利上げに言及",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SWEZjemRCWGFDR2NiQ1liamtZdGFTODVRcThPT3BZaUJ5VFNfTElCYVoxNi1hVVpNUWJZLTZPb3VkSzE2T29xd1YtOW11aUpES0E?oc=5",
-   "source": "ザイFX！",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T14:51:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "The x86 CPU: From 4004 to 486",
-   "link": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T14:47:53+00:00",
-   "summary": "Article URL: https://pikuma.com/blog/history-of-x86-4004-to-486 Comments URL: https://news.ycombinator.com/item?id=50546967 Points: 120 # Comments: 32",
-   "score": 0
-  },
-  {
-   "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-   "link": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T14:43:52+00:00",
-   "summary": "Article URL: https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026 Comments URL: https://news.ycombinator.com/item?id=50546914 Points: 2",
-   "score": 0
-  },
-  {
-   "title": "EXCLUSIVE-サウジ、対フーシ派戦争長期化へ備え 来年まで継続視野=関係筋",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZldZLWhRTnBYaGhIczhDcWRXUDM1V2JtWjQ4dXBsN2x2Q0FUM0p6MHlFSXhsRElGZjM0S2ZQOWVlUDc1YVE2YW5SZVRtV0l3cGpZVk5yRXVBWE5iMmlTbHIwbjNsYW9PV29pWWNKNXhjcEJqUzVOUEJSN19RZ9IBgwFBVV95cUxOWmJuRjVPRVZWcWRuUE1OY0R1Y0ZXZkhtWlQ5b3h1djc0Mm9jUFNJdF95c2M2U1JDanRNOWFIRGYwUVcyeHVTSEFwWlgwTGF2MHE1UUV4SHk4SklGelhJYXQ0eGVDWmMwdDFqb2dFb0hqMmJ2T0Y3QkJNR09mQm9KdWRRNA?oc=5",
-   "source": "ｄメニューニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T14:38:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
-   "link": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
-   "source": "Zenn",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T14:26:28+00:00",
-   "summary": "はじめに 社内のリポジトリで、.vue を含む型検査を vue-tsc から tsrs + vize に置き換えました。CI の typecheck ジョブは中央値で 570 秒から 123 秒になり、メインのアプリの型検査は約 13 倍速く、メモリは約 64% 減りました。 この記事では、Vue のプロジェクトが型検",
-   "score": 0
-  },
-  {
-   "title": "MUJI Card発行のクレディセゾン、カード番号削除を2度依頼 無印は実行せず",
-   "link": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T14:15:39+00:00",
-   "summary": "「無印良品」を展開する良品計画から、同社ブランドで発行する「MUJI Card」のクレジットカード番号全桁が約109万件漏洩した恐れがある事案について、新たな事実が分かった。MUJI Cardを発行するクレディセゾンが良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していた。2026年11月1",
-   "score": 396
-  },
-  {
-   "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件",
-   "link": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-   "source": "Zenn",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T14:06:19+00:00",
-   "summary": "最近、Claude CodeのモデルをOpus 5.5からOpus 4.6に戻しました。 普通に考えれば新しいモデルの方が性能は高いはずですが、実際に開発していると、どうも4.6の方が使いやすい。🤔 5.5に大きな不満があったわけではありません。むしろコードを書く能力は高く、複雑な問題にも粘り強く取り組んでくれます。 ",
-   "score": 0
-  },
-  {
-   "title": "【市場反応】米10月住宅着工件数は予想上回る、住宅建設許可件数はパンデミック来の低水準、ドルもみ合い｜FX・為替ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBENGVZYmk5dmlnekY4dGVranRBT1NodXJRb1VCRDc1cnJFSFNobi1FbEwxQS0xbkZLOVBTMWtoY1BFdXRGWFlzdjI5TWxXdkZoVWc?oc=5",
-   "source": "ザイFX！",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T14:03:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "NVIDIA「RTX Spark」搭載の小型デスクトップPCが11月18日発売 4399ドルから “常時稼働のAIエージェント拠点”に - ITmedia PC USER",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVnVxQTZqQ2g1X29WS1MtWXA2bUxmOWdvbS0yM3E5bEp6OUx5NHdZLUNNSUt3bGhxVHhPT0I3TVQyTVo1TmIwX1NMRWkwM0JQVnVHcXExWVMzN0ZrRWYta281NTJIWEhJbnM5NjJRb9IBaEFVX3lxTE5ISERRbmZ3TjhNdFIyd1hDYWtlUldKcVJSNGotUGl2bzlscjh5cGJhTGVQQ3RyWE9kNkNkLTI4U0ZtQnl2QVZJNEhzUUxWMl92TmFEY0F2LVUxMXJra2NrMVpGdjA5TVhh?oc=5",
-   "source": "ITmedia",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T14:00:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "The seven Anthropic founders who are about to become multi-billionaires",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T13:55:14+00:00",
-   "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-   "score": 0
-  },
-  {
-   "title": "家庭用機器が“勝手に”サイバー攻撃 中国企業が「不正ソフト」入り機器を出荷 Wi-Fiルーター“乗っ取り”でカード・口座情報「覗き見」も（TBS NEWS DIG Powered by JNN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTVC1RZFYzb0lXZVkxaS0tdm01d0pTM2VLU3R2QmRZOHF5RmV6cG1aZ3VBRFNPYktBOVBabXVaemJwNjY0Y2ZUVVM1LTNNSlliVm5tTTIwWXh2czF4NWllZExXT0dLWkpDcFRlTU9JNnVBb3VGR01tVmxfMHhqaXc?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T13:52:13+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "KotlinFest 2026のアーカイブ動画即日公開を支えた技術",
-   "link": "https://zenn.dev/hiro_pon/articles/0fc7f0c9ed88a2",
-   "source": "Zenn",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T13:48:53+00:00",
-   "summary": "はじめに この記事は、DroidKaigiで配信を担当しているhiroponが執筆しています。 Kotlin Fest 2026では、3部屋すべてのセッション動画を、イベント当日中に公開できました。公開した動画は、次の再生リストにまとめています。 Kotlin Fest 2026 の公開動画(YouTube再生リスト)",
-   "score": 0
-  },
-  {
-   "title": "ソフトバンクGの孫社長「AIバブルではない」投資継続の考え",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41WU11WF9EUmtOS3ItZGhROFJtZEJNZ2JnX3FPQWNHM1JpRG1jcXV3d2FETklSTUFRV1lIT1ZYZG12amxSSTNpcWIweC0tYmh4Z0kwODU3aEpYRk8zZHc4?oc=5",
-   "source": "NHKニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T13:33:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "How the US House of Representatives chooses its leaders: A visual guide",
-   "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T13:24:22+00:00",
-   "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-   "score": 0
-  },
-  {
-   "title": "DNS resolvers are the wrong place to fight piracy",
-   "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-   "source": "Hacker News",
-   "category": "it",
-   "lang": "en",
-   "date": "2026-11-18T13:18:02+00:00",
-   "summary": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 615 # Comme",
-   "score": 0
-  },
-  {
-   "title": "GitHub - libraz/suzume: A lightweight Japanese tokenizer for browsers and native apps — WebAssembly, Node.js, Python, Go, and C++, returning POS tags and lemmas with the dictionaries built in",
-   "link": "https://github.com/libraz/suzume",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T13:16:59+00:00",
-   "summary": "Suzume is a lightweight Japanese tokenizer for browsers and native apps. It is not a full morphological analyzer like MeCab: its primary goal is to split text i",
-   "score": 14
-  },
-  {
-   "title": "「脱化石燃料」行程表、デンマークやスペインも表明 COP31で（毎日新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01cElQVEE5eUdKdGw5QXhvZ01JWWx6bzVjbWRQTkpYcE9SNWIxT2tMT0ZNV05QdVlnVUtHUmtHcUxKbUlVZG1WTDI0Q2JQMEstUnRyNUZsUGluLWs4ZWVaQUIyU2VmRWoweGt0ZmxQeHRjMEpRcjZLWVM5MXFPeEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "science",
-   "lang": "ja",
-   "date": "2026-11-18T13:13:31+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～",
-   "link": "https://speakerdeck.com/minorun365/2026-11-lab-datsubotorunekku-ningen",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T13:07:43+00:00",
-   "summary": "レバテックLAB「［みのるん流］認知負荷の減らし方 ～開発にも日常業務にも活かせるノウハウ～」 https://levtechlab.connpass.com/event/408730/",
-   "score": 135
-  },
-  {
-   "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-   "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T13:04:48+00:00",
-   "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-   "score": 0
-  },
-  {
-   "title": "GTA 6: Everything you need to know about the highly anticipated game",
-   "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T13:02:33+00:00",
-   "summary": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
-   "score": 0
-  },
-  {
-   "title": "“本人確認後の画像データ削除を”レンタカー事業者に求める",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Va2s4V2hhU1ZvSzRIVDFWdjgtZ0JUaWNHbGs5dF9JWnhCSXNUT2lZRDJVbDN3elotN0E0eWJidlJMNmJVMXN5dHk2OFR0cUh0WXdOdWpYU1NyeDBnelFz?oc=5",
-   "source": "NHKニュース",
-   "category": "economy",
-   "lang": "ja",
-   "date": "2026-11-18T13:01:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "APEC首脳宣言 AI活用などで調整",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PT1FoYS1WN2toRW54Z3F4c0otcHMzWUlfSm1fODU5QnVxczI3MlFJVzZoWTItZGRObDFBTWdldWZmcFhQLW9KRFlDbktDU0JS?oc=5",
-   "source": "Yahoo!ニュース",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T12:57:53+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261117de77369",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T12:57:29+00:00",
-   "summary": "アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…",
-   "score": 214
-  },
-  {
-   "title": "モンゴルで2000年前の巨大墓を発掘…413点の財宝から浮かび上がった「古代ローマとのつながり」",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6M3ZpMUxGbkNpdGVNY0xqWjBaYkk3RXc2MFh1bml1MGdJU19wRnhKQnhtSFRON2RFS1phQkRBRDBIc3hYdGgxVVhKTkhDdWtQbWlnUW1UVl9rWmRBeFVB?oc=5",
-   "source": "ニューズウィーク日本版",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T12:57:17+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "史上初の米中露首脳会談へ、中露は第２次大戦の戦勝国強調し日本けん制…米国が同調すれば国際秩序に影響不可避",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JV2wzUkdGUFNaXzJCanlicTl2TU1oY3dmVmNrTFlOallPTlBMSHdxemMyaHRnaGtKZDBuSjhTbEVrZElyNUJ6cXIxTUJpZVBZWnBjVHp4eFVLZThJYzZxMlJ3?oc=5",
-   "source": "読売新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T12:51:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "中国とロシア首脳、米国との3カ国会談前に結束誇示 APEC開幕へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DaDBzTHVxcHRqS2tzUC1hZjQ5bExfUFF3andSbS1KVVpNNnJrcTZIUHh4V0dSTmVRSEt3c2d3RTFCemN6eDRJaUtna09sd1dZWm9BcF9jSHBHeXVoSEp3c0lIcGlZanF0ejlWMg?oc=5",
-   "source": "日本経済新聞",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T12:42:14+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "How data centres are turning AI-generated heat into energy",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
-   "source": "Al Jazeera",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T12:41:02+00:00",
-   "summary": "How data centres are turning AI-generated heat into energy",
-   "score": 0
-  },
-  {
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "category": "world",
-   "lang": "en",
-   "date": "2026-11-18T12:39:24+00:00",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "score": 0
-  },
-  {
-   "title": "習氏、首脳外交を展開 ＡＰＥＣ会議が開幕―中国・深セン",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fNUJDa0FhM19YM2l6dDVnN29uMjVtaW03NGVKNU5ObmJtak1QS25SUkFNYXVyWlJNQUJzM0RxRUZwTm1oclRDTzZHRGdBdXpyOG1CM1Z6UVAxNmZuSDQtTC13WQ?oc=5",
-   "source": "時事ドットコム",
-   "category": "world",
-   "lang": "ja",
-   "date": "2026-11-18T12:39:00+00:00",
-   "summary": "",
-   "score": 0
-  },
-  {
-   "title": "かつてスクウェアにナーシャ・ジベリ氏という伝説のプログラマーがいて数々の逸話を残した→河津秋敏さんが反応して当時の話をしてくれるアツい展開に",
-   "link": "https://togetter.com/li/2772052",
-   "source": "はてブ テクノロジー",
-   "category": "it",
-   "lang": "ja",
-   "date": "2026-11-18T12:33:41+00:00",
-   "summary": "どんぐりどくん @Donguring5656 元々イランの王族でイラン革命により渡米して、Apple用のゲーム会社作ったがアタリショックで倒産して世界中を放浪 放浪中友人にゲーム開発に誘われ、たまたま時スクウェア初代社長が才能を見出しスクウェアに入社して作ったのがFF その開発にあたり、飛空船に影をつけて浮いているよう",
-   "score": 16
   }
  ]
 }
